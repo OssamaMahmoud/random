@@ -1,7 +1,7 @@
 [
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-01-01",
+   "Day of Week": "Monday",
+   "d_date": "2024-01-01",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -13,12 +13,11 @@
    "maghrib_begins": "17:01:00",
    "maghrib_jamah": "17:08:00",
    "isha_begins": "18:26:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-01-02",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-01-02",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -30,12 +29,11 @@
    "maghrib_begins": "17:02:00",
    "maghrib_jamah": "17:09:00",
    "isha_begins": "18:27:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-01-03",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-01-03",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -47,12 +45,11 @@
    "maghrib_begins": "17:03:00",
    "maghrib_jamah": "17:10:00",
    "isha_begins": "18:28:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-01-04",
+   "Day of Week": "Thursday",
+   "d_date": "2024-01-04",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -64,12 +61,11 @@
    "maghrib_begins": "17:04:00",
    "maghrib_jamah": "17:11:00",
    "isha_begins": "18:29:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-01-05",
+   "Day of Week": "Friday",
+   "d_date": "2024-01-05",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -81,12 +77,11 @@
    "maghrib_begins": "17:05:00",
    "maghrib_jamah": "17:12:00",
    "isha_begins": "18:30:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-01-06",
+   "Day of Week": "Saturday",
+   "d_date": "2024-01-06",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -98,12 +93,11 @@
    "maghrib_begins": "17:06:00",
    "maghrib_jamah": "17:13:00",
    "isha_begins": "18:31:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-01-07",
+   "Day of Week": "Sunday",
+   "d_date": "2024-01-07",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -111,16 +105,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "14:48:00",
    "asr_mithl_2": "14:48:00",
-   "asr_jamah": "15:00:00",
+   "asr_jamah": "15:15:00",
    "maghrib_begins": "17:07:00",
    "maghrib_jamah": "17:14:00",
    "isha_begins": "18:32:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-01-08",
+   "Day of Week": "Monday",
+   "d_date": "2024-01-08",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -132,12 +125,11 @@
    "maghrib_begins": "17:08:00",
    "maghrib_jamah": "17:15:00",
    "isha_begins": "18:32:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-01-09",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-01-09",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -149,12 +141,11 @@
    "maghrib_begins": "17:09:00",
    "maghrib_jamah": "17:16:00",
    "isha_begins": "18:33:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-01-10",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-01-10",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -166,12 +157,11 @@
    "maghrib_begins": "17:10:00",
    "maghrib_jamah": "17:17:00",
    "isha_begins": "18:34:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-01-11",
+   "Day of Week": "Thursday",
+   "d_date": "2024-01-11",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -183,12 +173,11 @@
    "maghrib_begins": "17:11:00",
    "maghrib_jamah": "17:18:00",
    "isha_begins": "18:35:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-01-12",
+   "Day of Week": "Friday",
+   "d_date": "2024-01-12",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -200,12 +189,11 @@
    "maghrib_begins": "17:12:00",
    "maghrib_jamah": "17:19:00",
    "isha_begins": "18:36:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-01-13",
+   "Day of Week": "Saturday",
+   "d_date": "2024-01-13",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -217,12 +205,11 @@
    "maghrib_begins": "17:13:00",
    "maghrib_jamah": "17:20:00",
    "isha_begins": "18:37:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-01-14",
+   "Day of Week": "Sunday",
+   "d_date": "2024-01-14",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -234,12 +221,11 @@
    "maghrib_begins": "17:14:00",
    "maghrib_jamah": "17:21:00",
    "isha_begins": "18:38:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-01-15",
+   "Day of Week": "Monday",
+   "d_date": "2024-01-15",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -251,12 +237,11 @@
    "maghrib_begins": "17:15:00",
    "maghrib_jamah": "17:22:00",
    "isha_begins": "18:39:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-01-16",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-01-16",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:52:00",
@@ -268,12 +253,11 @@
    "maghrib_begins": "17:17:00",
    "maghrib_jamah": "17:24:00",
    "isha_begins": "18:40:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-01-17",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-01-17",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:52:00",
@@ -285,12 +269,11 @@
    "maghrib_begins": "17:18:00",
    "maghrib_jamah": "17:25:00",
    "isha_begins": "18:41:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-01-18",
+   "Day of Week": "Thursday",
+   "d_date": "2024-01-18",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:51:00",
@@ -302,12 +285,11 @@
    "maghrib_begins": "17:19:00",
    "maghrib_jamah": "17:26:00",
    "isha_begins": "18:43:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-01-19",
+   "Day of Week": "Friday",
+   "d_date": "2024-01-19",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:51:00",
@@ -319,12 +301,11 @@
    "maghrib_begins": "17:20:00",
    "maghrib_jamah": "17:27:00",
    "isha_begins": "18:44:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-01-20",
+   "Day of Week": "Saturday",
+   "d_date": "2024-01-20",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:50:00",
@@ -336,12 +317,11 @@
    "maghrib_begins": "17:22:00",
    "maghrib_jamah": "17:29:00",
    "isha_begins": "18:45:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-01-21",
+   "Day of Week": "Sunday",
+   "d_date": "2024-01-21",
    "fajr_begins": "6:27:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:49:00",
@@ -349,16 +329,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "15:03:00",
    "asr_mithl_2": "15:03:00",
-   "asr_jamah": "15:15:00",
+   "asr_jamah": "15:30:00",
    "maghrib_begins": "17:23:00",
    "maghrib_jamah": "17:30:00",
    "isha_begins": "18:46:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-01-22",
+   "Day of Week": "Monday",
+   "d_date": "2024-01-22",
    "fajr_begins": "6:27:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:49:00",
@@ -370,12 +349,11 @@
    "maghrib_begins": "17:24:00",
    "maghrib_jamah": "17:31:00",
    "isha_begins": "18:47:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-01-23",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-01-23",
    "fajr_begins": "6:26:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:48:00",
@@ -387,12 +365,11 @@
    "maghrib_begins": "17:25:00",
    "maghrib_jamah": "17:32:00",
    "isha_begins": "18:48:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-01-24",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-01-24",
    "fajr_begins": "6:26:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:47:00",
@@ -404,12 +381,11 @@
    "maghrib_begins": "17:27:00",
    "maghrib_jamah": "17:34:00",
    "isha_begins": "18:49:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-01-25",
+   "Day of Week": "Thursday",
+   "d_date": "2024-01-25",
    "fajr_begins": "6:25:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:47:00",
@@ -421,12 +397,11 @@
    "maghrib_begins": "17:28:00",
    "maghrib_jamah": "17:35:00",
    "isha_begins": "18:50:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-01-26",
+   "Day of Week": "Friday",
+   "d_date": "2024-01-26",
    "fajr_begins": "6:24:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:46:00",
@@ -438,12 +413,11 @@
    "maghrib_begins": "17:29:00",
    "maghrib_jamah": "17:36:00",
    "isha_begins": "18:51:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-01-27",
+   "Day of Week": "Saturday",
+   "d_date": "2024-01-27",
    "fajr_begins": "6:24:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:45:00",
@@ -455,12 +429,11 @@
    "maghrib_begins": "17:31:00",
    "maghrib_jamah": "17:38:00",
    "isha_begins": "18:53:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-01-28",
+   "Day of Week": "Sunday",
+   "d_date": "2024-01-28",
    "fajr_begins": "6:23:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:44:00",
@@ -472,12 +445,11 @@
    "maghrib_begins": "17:32:00",
    "maghrib_jamah": "17:39:00",
    "isha_begins": "18:54:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-01-29",
+   "Day of Week": "Monday",
+   "d_date": "2024-01-29",
    "fajr_begins": "6:22:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:43:00",
@@ -489,12 +461,11 @@
    "maghrib_begins": "17:33:00",
    "maghrib_jamah": "17:40:00",
    "isha_begins": "18:55:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-01-30",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-01-30",
    "fajr_begins": "6:21:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:42:00",
@@ -506,12 +477,11 @@
    "maghrib_begins": "17:34:00",
    "maghrib_jamah": "17:41:00",
    "isha_begins": "18:56:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-01-31",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-01-31",
    "fajr_begins": "6:20:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:41:00",
@@ -523,12 +493,11 @@
    "maghrib_begins": "17:36:00",
    "maghrib_jamah": "17:43:00",
    "isha_begins": "18:57:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-02-01",
+   "Day of Week": "Thursday",
+   "d_date": "2024-02-01",
    "fajr_begins": "6:20:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:40:00",
@@ -540,12 +509,11 @@
    "maghrib_begins": "17:37:00",
    "maghrib_jamah": "17:44:00",
    "isha_begins": "18:58:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-02-02",
+   "Day of Week": "Friday",
+   "d_date": "2024-02-02",
    "fajr_begins": "6:19:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:39:00",
@@ -557,12 +525,11 @@
    "maghrib_begins": "17:38:00",
    "maghrib_jamah": "17:45:00",
    "isha_begins": "19:00:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-02-03",
+   "Day of Week": "Saturday",
+   "d_date": "2024-02-03",
    "fajr_begins": "6:18:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:38:00",
@@ -574,12 +541,11 @@
    "maghrib_begins": "17:40:00",
    "maghrib_jamah": "17:47:00",
    "isha_begins": "19:01:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-02-04",
+   "Day of Week": "Sunday",
+   "d_date": "2024-02-04",
    "fajr_begins": "6:17:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:37:00",
@@ -587,16 +553,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "15:18:00",
    "asr_mithl_2": "15:18:00",
-   "asr_jamah": "15:30:00",
+   "asr_jamah": "15:45:00",
    "maghrib_begins": "17:41:00",
    "maghrib_jamah": "17:48:00",
    "isha_begins": "19:02:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-02-05",
+   "Day of Week": "Monday",
+   "d_date": "2024-02-05",
    "fajr_begins": "6:16:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:36:00",
@@ -608,12 +573,11 @@
    "maghrib_begins": "17:43:00",
    "maghrib_jamah": "17:50:00",
    "isha_begins": "19:03:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-02-06",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-02-06",
    "fajr_begins": "6:15:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:35:00",
@@ -625,12 +589,11 @@
    "maghrib_begins": "17:44:00",
    "maghrib_jamah": "17:51:00",
    "isha_begins": "19:04:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-02-07",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-02-07",
    "fajr_begins": "6:14:00",
    "fajr_jamah": "6:44:00",
    "sunrise": "7:33:00",
@@ -642,12 +605,11 @@
    "maghrib_begins": "17:45:00",
    "maghrib_jamah": "17:52:00",
    "isha_begins": "19:06:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-02-08",
+   "Day of Week": "Thursday",
+   "d_date": "2024-02-08",
    "fajr_begins": "6:13:00",
    "fajr_jamah": "6:43:00",
    "sunrise": "7:32:00",
@@ -659,12 +621,11 @@
    "maghrib_begins": "17:47:00",
    "maghrib_jamah": "17:54:00",
    "isha_begins": "19:07:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-02-09",
+   "Day of Week": "Friday",
+   "d_date": "2024-02-09",
    "fajr_begins": "6:11:00",
    "fajr_jamah": "6:41:00",
    "sunrise": "7:31:00",
@@ -676,12 +637,11 @@
    "maghrib_begins": "17:48:00",
    "maghrib_jamah": "17:55:00",
    "isha_begins": "19:08:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-02-10",
+   "Day of Week": "Saturday",
+   "d_date": "2024-02-10",
    "fajr_begins": "6:10:00",
    "fajr_jamah": "6:40:00",
    "sunrise": "7:30:00",
@@ -693,12 +653,11 @@
    "maghrib_begins": "17:49:00",
    "maghrib_jamah": "17:56:00",
    "isha_begins": "19:09:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-02-11",
+   "Day of Week": "Sunday",
+   "d_date": "2024-02-11",
    "fajr_begins": "6:09:00",
    "fajr_jamah": "6:39:00",
    "sunrise": "7:28:00",
@@ -710,12 +669,11 @@
    "maghrib_begins": "17:51:00",
    "maghrib_jamah": "17:58:00",
    "isha_begins": "19:10:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-02-12",
+   "Day of Week": "Monday",
+   "d_date": "2024-02-12",
    "fajr_begins": "6:08:00",
    "fajr_jamah": "6:38:00",
    "sunrise": "7:27:00",
@@ -727,12 +685,11 @@
    "maghrib_begins": "17:52:00",
    "maghrib_jamah": "17:59:00",
    "isha_begins": "19:12:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-02-13",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-02-13",
    "fajr_begins": "6:07:00",
    "fajr_jamah": "6:37:00",
    "sunrise": "7:26:00",
@@ -744,12 +701,11 @@
    "maghrib_begins": "17:53:00",
    "maghrib_jamah": "18:00:00",
    "isha_begins": "19:13:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-02-14",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-02-14",
    "fajr_begins": "6:06:00",
    "fajr_jamah": "6:36:00",
    "sunrise": "7:24:00",
@@ -761,12 +717,11 @@
    "maghrib_begins": "17:55:00",
    "maghrib_jamah": "18:02:00",
    "isha_begins": "19:14:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-02-15",
+   "Day of Week": "Thursday",
+   "d_date": "2024-02-15",
    "fajr_begins": "6:04:00",
    "fajr_jamah": "6:34:00",
    "sunrise": "7:23:00",
@@ -778,12 +733,11 @@
    "maghrib_begins": "17:56:00",
    "maghrib_jamah": "18:03:00",
    "isha_begins": "19:15:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-02-16",
+   "Day of Week": "Friday",
+   "d_date": "2024-02-16",
    "fajr_begins": "6:03:00",
    "fajr_jamah": "6:33:00",
    "sunrise": "7:22:00",
@@ -795,12 +749,11 @@
    "maghrib_begins": "17:57:00",
    "maghrib_jamah": "18:04:00",
    "isha_begins": "19:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-02-17",
+   "Day of Week": "Saturday",
+   "d_date": "2024-02-17",
    "fajr_begins": "6:02:00",
    "fajr_jamah": "6:32:00",
    "sunrise": "7:20:00",
@@ -812,12 +765,11 @@
    "maghrib_begins": "17:59:00",
    "maghrib_jamah": "18:06:00",
    "isha_begins": "19:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-02-18",
+   "Day of Week": "Sunday",
+   "d_date": "2024-02-18",
    "fajr_begins": "6:00:00",
    "fajr_jamah": "6:30:00",
    "sunrise": "7:19:00",
@@ -825,16 +777,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "15:33:00",
    "asr_mithl_2": "15:33:00",
-   "asr_jamah": "15:45:00",
+   "asr_jamah": "16:00:00",
    "maghrib_begins": "18:00:00",
    "maghrib_jamah": "18:07:00",
    "isha_begins": "19:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-02-19",
+   "Day of Week": "Monday",
+   "d_date": "2024-02-19",
    "fajr_begins": "5:59:00",
    "fajr_jamah": "6:29:00",
    "sunrise": "7:17:00",
@@ -846,12 +797,11 @@
    "maghrib_begins": "18:01:00",
    "maghrib_jamah": "18:08:00",
    "isha_begins": "19:20:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-02-20",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-02-20",
    "fajr_begins": "5:58:00",
    "fajr_jamah": "6:28:00",
    "sunrise": "7:16:00",
@@ -863,12 +813,11 @@
    "maghrib_begins": "18:02:00",
    "maghrib_jamah": "18:09:00",
    "isha_begins": "19:21:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-02-21",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-02-21",
    "fajr_begins": "5:56:00",
    "fajr_jamah": "6:26:00",
    "sunrise": "7:14:00",
@@ -880,12 +829,11 @@
    "maghrib_begins": "18:04:00",
    "maghrib_jamah": "18:11:00",
    "isha_begins": "19:22:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-02-22",
+   "Day of Week": "Thursday",
+   "d_date": "2024-02-22",
    "fajr_begins": "5:55:00",
    "fajr_jamah": "6:25:00",
    "sunrise": "7:13:00",
@@ -897,12 +845,11 @@
    "maghrib_begins": "18:05:00",
    "maghrib_jamah": "18:12:00",
    "isha_begins": "19:24:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-02-23",
+   "Day of Week": "Friday",
+   "d_date": "2024-02-23",
    "fajr_begins": "5:53:00",
    "fajr_jamah": "6:23:00",
    "sunrise": "7:11:00",
@@ -914,12 +861,11 @@
    "maghrib_begins": "18:06:00",
    "maghrib_jamah": "18:13:00",
    "isha_begins": "19:25:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-02-24",
+   "Day of Week": "Saturday",
+   "d_date": "2024-02-24",
    "fajr_begins": "5:52:00",
    "fajr_jamah": "6:22:00",
    "sunrise": "7:10:00",
@@ -931,12 +877,11 @@
    "maghrib_begins": "18:08:00",
    "maghrib_jamah": "18:15:00",
    "isha_begins": "19:26:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-02-25",
+   "Day of Week": "Sunday",
+   "d_date": "2024-02-25",
    "fajr_begins": "5:50:00",
    "fajr_jamah": "6:20:00",
    "sunrise": "7:08:00",
@@ -948,12 +893,11 @@
    "maghrib_begins": "18:09:00",
    "maghrib_jamah": "18:16:00",
    "isha_begins": "19:27:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-02-26",
+   "Day of Week": "Monday",
+   "d_date": "2024-02-26",
    "fajr_begins": "5:49:00",
    "fajr_jamah": "6:19:00",
    "sunrise": "7:07:00",
@@ -965,12 +909,11 @@
    "maghrib_begins": "18:10:00",
    "maghrib_jamah": "18:17:00",
    "isha_begins": "19:28:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-02-27",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-02-27",
    "fajr_begins": "5:47:00",
    "fajr_jamah": "6:17:00",
    "sunrise": "7:05:00",
@@ -982,12 +925,11 @@
    "maghrib_begins": "18:11:00",
    "maghrib_jamah": "18:18:00",
    "isha_begins": "19:30:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-02-28",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-02-28",
    "fajr_begins": "5:46:00",
    "fajr_jamah": "6:16:00",
    "sunrise": "7:03:00",
@@ -999,12 +941,11 @@
    "maghrib_begins": "18:13:00",
    "maghrib_jamah": "18:20:00",
    "isha_begins": "19:31:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-03-01",
+   "Day of Week": "Thursday",
+   "d_date": "2024-02-29",
    "fajr_begins": "5:44:00",
    "fajr_jamah": "6:14:00",
    "sunrise": "7:02:00",
@@ -1016,12 +957,11 @@
    "maghrib_begins": "18:14:00",
    "maghrib_jamah": "18:21:00",
    "isha_begins": "19:32:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-03-02",
+   "Day of Week": "Friday",
+   "d_date": "2024-03-01",
    "fajr_begins": "5:42:00",
    "fajr_jamah": "6:12:00",
    "sunrise": "7:00:00",
@@ -1033,12 +973,11 @@
    "maghrib_begins": "18:15:00",
    "maghrib_jamah": "18:22:00",
    "isha_begins": "19:33:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-03-03",
+   "Day of Week": "Saturday",
+   "d_date": "2024-03-02",
    "fajr_begins": "5:41:00",
    "fajr_jamah": "6:11:00",
    "sunrise": "6:59:00",
@@ -1050,12 +989,11 @@
    "maghrib_begins": "18:16:00",
    "maghrib_jamah": "18:23:00",
    "isha_begins": "19:35:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-03-04",
+   "Day of Week": "Sunday",
+   "d_date": "2024-03-03",
    "fajr_begins": "5:39:00",
    "fajr_jamah": "6:09:00",
    "sunrise": "6:57:00",
@@ -1063,16 +1001,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "15:46:00",
    "asr_mithl_2": "15:46:00",
-   "asr_jamah": "16:00:00",
+   "asr_jamah": "16:15:00",
    "maghrib_begins": "18:18:00",
    "maghrib_jamah": "18:25:00",
    "isha_begins": "19:36:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-03-05",
+   "Day of Week": "Monday",
+   "d_date": "2024-03-04",
    "fajr_begins": "5:38:00",
    "fajr_jamah": "6:08:00",
    "sunrise": "6:55:00",
@@ -1084,12 +1021,11 @@
    "maghrib_begins": "18:19:00",
    "maghrib_jamah": "18:26:00",
    "isha_begins": "19:37:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-03-06",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-03-05",
    "fajr_begins": "5:36:00",
    "fajr_jamah": "6:06:00",
    "sunrise": "6:54:00",
@@ -1101,12 +1037,11 @@
    "maghrib_begins": "18:20:00",
    "maghrib_jamah": "18:27:00",
    "isha_begins": "19:38:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-03-07",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-03-06",
    "fajr_begins": "5:34:00",
    "fajr_jamah": "6:04:00",
    "sunrise": "6:52:00",
@@ -1118,12 +1053,11 @@
    "maghrib_begins": "18:21:00",
    "maghrib_jamah": "18:28:00",
    "isha_begins": "19:40:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-03-08",
+   "Day of Week": "Thursday",
+   "d_date": "2024-03-07",
    "fajr_begins": "5:33:00",
    "fajr_jamah": "6:03:00",
    "sunrise": "6:50:00",
@@ -1135,12 +1069,11 @@
    "maghrib_begins": "18:23:00",
    "maghrib_jamah": "18:30:00",
    "isha_begins": "19:41:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-03-09",
+   "Day of Week": "Friday",
+   "d_date": "2024-03-08",
    "fajr_begins": "5:31:00",
    "fajr_jamah": "6:01:00",
    "sunrise": "6:48:00",
@@ -1152,12 +1085,11 @@
    "maghrib_begins": "18:24:00",
    "maghrib_jamah": "18:31:00",
    "isha_begins": "19:42:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-03-10",
+   "Day of Week": "Saturday",
+   "d_date": "2024-03-09",
    "fajr_begins": "5:29:00",
    "fajr_jamah": "5:59:00",
    "sunrise": "6:47:00",
@@ -1169,31 +1101,29 @@
    "maghrib_begins": "18:25:00",
    "maghrib_jamah": "18:32:00",
    "isha_begins": "19:43:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
- },
- {
-   "Day of Week": "Saturday",
-   "d_date": "2023-03-11",
-   "fajr_begins": "5:27:00",
-   "fajr_jamah": "5:57:00",
-   "sunrise": "6:45:00",
-   "zuhr_begins": "12:36:00",
-   "zuhr_jamah": "12:45:00",
-   "asr_mithl_1": "15:51:00",
-   "asr_mithl_2": "15:51:00",
-   "asr_jamah": "16:15:00",
-   "maghrib_begins": "18:26:00",
-   "maghrib_jamah": "18:33:00",
-   "isha_begins": "19:44:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
    "Day of Week": "Sunday",
-   "d_date": "2023-03-12",
+   "d_date": "2024-03-10",
+   "fajr_begins": "6:27:00",
+   "fajr_jamah": "6:37:00",
+   "sunrise": "7:45:00",
+   "zuhr_begins": "13:36:00",
+   "zuhr_jamah": "13:45:00",
+   "asr_mithl_1": "16:51:00",
+   "asr_mithl_2": "16:51:00",
+   "asr_jamah": "17:15:00",
+   "maghrib_begins": "19:26:00",
+   "maghrib_jamah": "19:33:00",
+   "isha_begins": "20:44:00",
+   "isha_jamah": "20:44:00"
+ },
+ {
+   "Day of Week": "Monday",
+   "d_date": "2024-03-11",
    "fajr_begins": "6:26:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:36:00",
    "sunrise": "7:43:00",
    "zuhr_begins": "13:36:00",
    "zuhr_jamah": "13:45:00",
@@ -1203,14 +1133,13 @@
    "maghrib_begins": "19:28:00",
    "maghrib_jamah": "19:35:00",
    "isha_begins": "20:46:00",
-   "isha_jamah": "20:46:00",
-   "FIELD15": ""
+   "isha_jamah": "20:46:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-03-13",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-03-12",
    "fajr_begins": "6:24:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:34:00",
    "sunrise": "7:42:00",
    "zuhr_begins": "13:36:00",
    "zuhr_jamah": "13:45:00",
@@ -1220,14 +1149,13 @@
    "maghrib_begins": "19:29:00",
    "maghrib_jamah": "19:36:00",
    "isha_begins": "20:47:00",
-   "isha_jamah": "20:47:00",
-   "FIELD15": ""
+   "isha_jamah": "20:47:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-03-14",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-03-13",
    "fajr_begins": "6:22:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:32:00",
    "sunrise": "7:40:00",
    "zuhr_begins": "13:36:00",
    "zuhr_jamah": "13:45:00",
@@ -1237,14 +1165,13 @@
    "maghrib_begins": "19:30:00",
    "maghrib_jamah": "19:37:00",
    "isha_begins": "20:48:00",
-   "isha_jamah": "20:48:00",
-   "FIELD15": ""
+   "isha_jamah": "20:48:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-03-15",
+   "Day of Week": "Thursday",
+   "d_date": "2024-03-14",
    "fajr_begins": "6:20:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:30:00",
    "sunrise": "7:38:00",
    "zuhr_begins": "13:35:00",
    "zuhr_jamah": "13:45:00",
@@ -1254,14 +1181,13 @@
    "maghrib_begins": "19:31:00",
    "maghrib_jamah": "19:38:00",
    "isha_begins": "20:49:00",
-   "isha_jamah": "20:49:00",
-   "FIELD15": ""
+   "isha_jamah": "20:49:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-03-16",
+   "Day of Week": "Friday",
+   "d_date": "2024-03-15",
    "fajr_begins": "6:18:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:28:00",
    "sunrise": "7:36:00",
    "zuhr_begins": "13:35:00",
    "zuhr_jamah": "13:45:00",
@@ -1271,14 +1197,13 @@
    "maghrib_begins": "19:32:00",
    "maghrib_jamah": "19:39:00",
    "isha_begins": "20:51:00",
-   "isha_jamah": "20:51:00",
-   "FIELD15": ""
+   "isha_jamah": "20:51:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-03-17",
+   "Day of Week": "Saturday",
+   "d_date": "2024-03-16",
    "fajr_begins": "6:17:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:27:00",
    "sunrise": "7:35:00",
    "zuhr_begins": "13:35:00",
    "zuhr_jamah": "13:45:00",
@@ -1288,14 +1213,13 @@
    "maghrib_begins": "19:34:00",
    "maghrib_jamah": "19:41:00",
    "isha_begins": "20:52:00",
-   "isha_jamah": "20:52:00",
-   "FIELD15": ""
+   "isha_jamah": "20:52:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-03-18",
+   "Day of Week": "Sunday",
+   "d_date": "2024-03-17",
    "fajr_begins": "6:15:00",
-   "fajr_jamah": "6:45:00",
+   "fajr_jamah": "6:25:00",
    "sunrise": "7:33:00",
    "zuhr_begins": "13:35:00",
    "zuhr_jamah": "13:45:00",
@@ -1305,14 +1229,13 @@
    "maghrib_begins": "19:35:00",
    "maghrib_jamah": "19:42:00",
    "isha_begins": "20:53:00",
-   "isha_jamah": "20:53:00",
-   "FIELD15": ""
+   "isha_jamah": "20:53:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-03-19",
+   "Day of Week": "Monday",
+   "d_date": "2024-03-18",
    "fajr_begins": "6:13:00",
-   "fajr_jamah": "6:43:00",
+   "fajr_jamah": "6:23:00",
    "sunrise": "7:31:00",
    "zuhr_begins": "13:34:00",
    "zuhr_jamah": "13:45:00",
@@ -1322,14 +1245,13 @@
    "maghrib_begins": "19:36:00",
    "maghrib_jamah": "19:43:00",
    "isha_begins": "20:55:00",
-   "isha_jamah": "20:55:00",
-   "FIELD15": ""
+   "isha_jamah": "20:55:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-03-20",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-03-19",
    "fajr_begins": "6:11:00",
-   "fajr_jamah": "6:41:00",
+   "fajr_jamah": "6:21:00",
    "sunrise": "7:29:00",
    "zuhr_begins": "13:34:00",
    "zuhr_jamah": "13:45:00",
@@ -1339,14 +1261,13 @@
    "maghrib_begins": "19:37:00",
    "maghrib_jamah": "19:44:00",
    "isha_begins": "20:56:00",
-   "isha_jamah": "20:56:00",
-   "FIELD15": ""
+   "isha_jamah": "20:56:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-03-21",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-03-20",
    "fajr_begins": "6:09:00",
-   "fajr_jamah": "6:39:00",
+   "fajr_jamah": "6:19:00",
    "sunrise": "7:28:00",
    "zuhr_begins": "13:34:00",
    "zuhr_jamah": "13:45:00",
@@ -1356,14 +1277,13 @@
    "maghrib_begins": "19:38:00",
    "maghrib_jamah": "19:45:00",
    "isha_begins": "20:57:00",
-   "isha_jamah": "20:57:00",
-   "FIELD15": ""
+   "isha_jamah": "20:57:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-03-22",
+   "Day of Week": "Thursday",
+   "d_date": "2024-03-21",
    "fajr_begins": "6:07:00",
-   "fajr_jamah": "6:37:00",
+   "fajr_jamah": "6:17:00",
    "sunrise": "7:26:00",
    "zuhr_begins": "13:33:00",
    "zuhr_jamah": "13:45:00",
@@ -1373,12 +1293,11 @@
    "maghrib_begins": "19:39:00",
    "maghrib_jamah": "19:46:00",
    "isha_begins": "20:58:00",
-   "isha_jamah": "20:58:00",
-   "FIELD15": ""
+   "isha_jamah": "20:58:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-03-23",
+   "Day of Week": "Friday",
+   "d_date": "2024-03-22",
    "fajr_begins": "6:05:00",
    "fajr_jamah": "6:15:00",
    "sunrise": "7:24:00",
@@ -1386,16 +1305,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:59:00",
    "asr_mithl_2": "16:59:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:15:00",
    "maghrib_begins": "19:41:00",
    "maghrib_jamah": "19:48:00",
    "isha_begins": "21:00:00",
-   "isha_jamah": "21:00:00",
-   "FIELD15": ""
+   "isha_jamah": "21:00:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-03-24",
+   "Day of Week": "Saturday",
+   "d_date": "2024-03-23",
    "fajr_begins": "6:03:00",
    "fajr_jamah": "6:13:00",
    "sunrise": "7:22:00",
@@ -1403,16 +1321,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:00:00",
    "asr_mithl_2": "17:00:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:15:00",
    "maghrib_begins": "19:42:00",
    "maghrib_jamah": "19:49:00",
    "isha_begins": "21:01:00",
-   "isha_jamah": "21:01:00",
-   "FIELD15": ""
+   "isha_jamah": "21:01:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-03-25",
+   "Day of Week": "Sunday",
+   "d_date": "2024-03-24",
    "fajr_begins": "6:02:00",
    "fajr_jamah": "6:12:00",
    "sunrise": "7:21:00",
@@ -1420,16 +1337,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:01:00",
    "asr_mithl_2": "17:01:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:43:00",
    "maghrib_jamah": "19:50:00",
    "isha_begins": "21:02:00",
-   "isha_jamah": "21:02:00",
-   "FIELD15": ""
+   "isha_jamah": "21:02:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-03-26",
+   "Day of Week": "Monday",
+   "d_date": "2024-03-25",
    "fajr_begins": "6:00:00",
    "fajr_jamah": "6:10:00",
    "sunrise": "7:19:00",
@@ -1437,16 +1353,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:01:00",
    "asr_mithl_2": "17:01:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:44:00",
    "maghrib_jamah": "19:51:00",
    "isha_begins": "21:04:00",
-   "isha_jamah": "21:04:00",
-   "FIELD15": ""
+   "isha_jamah": "21:04:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-03-27",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-03-26",
    "fajr_begins": "5:58:00",
    "fajr_jamah": "6:08:00",
    "sunrise": "7:17:00",
@@ -1454,16 +1369,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:02:00",
    "asr_mithl_2": "17:02:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:45:00",
    "maghrib_jamah": "19:52:00",
    "isha_begins": "21:05:00",
-   "isha_jamah": "21:05:00",
-   "FIELD15": ""
+   "isha_jamah": "21:05:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-03-28",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-03-27",
    "fajr_begins": "5:56:00",
    "fajr_jamah": "6:06:00",
    "sunrise": "7:15:00",
@@ -1471,16 +1385,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:02:00",
    "asr_mithl_2": "17:02:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:47:00",
    "maghrib_jamah": "19:54:00",
    "isha_begins": "21:06:00",
-   "isha_jamah": "21:06:00",
-   "FIELD15": ""
+   "isha_jamah": "21:06:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-03-29",
+   "Day of Week": "Thursday",
+   "d_date": "2024-03-28",
    "fajr_begins": "5:54:00",
    "fajr_jamah": "6:04:00",
    "sunrise": "7:13:00",
@@ -1488,16 +1401,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:03:00",
    "asr_mithl_2": "17:03:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:48:00",
    "maghrib_jamah": "19:55:00",
    "isha_begins": "21:08:00",
-   "isha_jamah": "21:08:00",
-   "FIELD15": ""
+   "isha_jamah": "21:08:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-03-30",
+   "Day of Week": "Friday",
+   "d_date": "2024-03-29",
    "fajr_begins": "5:52:00",
    "fajr_jamah": "6:02:00",
    "sunrise": "7:12:00",
@@ -1505,16 +1417,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:03:00",
    "asr_mithl_2": "17:03:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:49:00",
    "maghrib_jamah": "19:56:00",
    "isha_begins": "21:09:00",
-   "isha_jamah": "21:09:00",
-   "FIELD15": ""
+   "isha_jamah": "21:09:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-03-31",
+   "Day of Week": "Saturday",
+   "d_date": "2024-03-30",
    "fajr_begins": "5:50:00",
    "fajr_jamah": "6:00:00",
    "sunrise": "7:10:00",
@@ -1522,16 +1433,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:04:00",
    "asr_mithl_2": "17:04:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:50:00",
    "maghrib_jamah": "19:57:00",
    "isha_begins": "21:10:00",
-   "isha_jamah": "21:10:00",
-   "FIELD15": ""
+   "isha_jamah": "21:10:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-04-01",
+   "Day of Week": "Sunday",
+   "d_date": "2024-03-31",
    "fajr_begins": "5:48:00",
    "fajr_jamah": "5:58:00",
    "sunrise": "7:08:00",
@@ -1539,16 +1449,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:04:00",
    "asr_mithl_2": "17:04:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:51:00",
    "maghrib_jamah": "19:58:00",
    "isha_begins": "21:12:00",
-   "isha_jamah": "21:12:00",
-   "FIELD15": ""
+   "isha_jamah": "21:12:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-04-02",
+   "Day of Week": "Monday",
+   "d_date": "2024-04-01",
    "fajr_begins": "5:46:00",
    "fajr_jamah": "5:56:00",
    "sunrise": "7:06:00",
@@ -1556,16 +1465,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:05:00",
    "asr_mithl_2": "17:05:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:52:00",
    "maghrib_jamah": "19:59:00",
    "isha_begins": "21:13:00",
-   "isha_jamah": "21:13:00",
-   "FIELD15": ""
+   "isha_jamah": "21:13:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-04-03",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-04-02",
    "fajr_begins": "5:44:00",
    "fajr_jamah": "5:54:00",
    "sunrise": "7:05:00",
@@ -1573,16 +1481,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:05:00",
    "asr_mithl_2": "17:05:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:54:00",
    "maghrib_jamah": "20:01:00",
    "isha_begins": "21:14:00",
-   "isha_jamah": "21:14:00",
-   "FIELD15": ""
+   "isha_jamah": "21:14:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-04-04",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-04-03",
    "fajr_begins": "5:42:00",
    "fajr_jamah": "5:52:00",
    "sunrise": "7:03:00",
@@ -1590,16 +1497,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:06:00",
    "asr_mithl_2": "17:06:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:55:00",
    "maghrib_jamah": "20:02:00",
    "isha_begins": "21:16:00",
-   "isha_jamah": "21:16:00",
-   "FIELD15": ""
+   "isha_jamah": "21:16:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-04-05",
+   "Day of Week": "Thursday",
+   "d_date": "2024-04-04",
    "fajr_begins": "5:40:00",
    "fajr_jamah": "5:50:00",
    "sunrise": "7:01:00",
@@ -1607,16 +1513,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:06:00",
    "asr_mithl_2": "17:06:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:56:00",
    "maghrib_jamah": "20:03:00",
    "isha_begins": "21:17:00",
-   "isha_jamah": "21:17:00",
-   "FIELD15": ""
+   "isha_jamah": "21:17:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-04-06",
+   "Day of Week": "Friday",
+   "d_date": "2024-04-05",
    "fajr_begins": "5:38:00",
    "fajr_jamah": "5:48:00",
    "sunrise": "6:59:00",
@@ -1624,16 +1529,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:07:00",
    "asr_mithl_2": "17:07:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:57:00",
    "maghrib_jamah": "20:04:00",
    "isha_begins": "21:18:00",
-   "isha_jamah": "21:18:00",
-   "FIELD15": ""
+   "isha_jamah": "21:18:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-04-07",
+   "Day of Week": "Saturday",
+   "d_date": "2024-04-06",
    "fajr_begins": "5:36:00",
    "fajr_jamah": "5:46:00",
    "sunrise": "6:58:00",
@@ -1641,16 +1545,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:07:00",
    "asr_mithl_2": "17:07:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:58:00",
    "maghrib_jamah": "20:05:00",
    "isha_begins": "21:20:00",
-   "isha_jamah": "21:20:00",
-   "FIELD15": ""
+   "isha_jamah": "21:20:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-04-08",
+   "Day of Week": "Sunday",
+   "d_date": "2024-04-07",
    "fajr_begins": "5:34:00",
    "fajr_jamah": "5:44:00",
    "sunrise": "6:56:00",
@@ -1658,16 +1561,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:08:00",
    "asr_mithl_2": "17:08:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "19:59:00",
    "maghrib_jamah": "20:06:00",
    "isha_begins": "21:21:00",
-   "isha_jamah": "21:21:00",
-   "FIELD15": ""
+   "isha_jamah": "21:21:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-04-09",
+   "Day of Week": "Monday",
+   "d_date": "2024-04-08",
    "fajr_begins": "5:32:00",
    "fajr_jamah": "5:42:00",
    "sunrise": "6:54:00",
@@ -1675,16 +1577,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:08:00",
    "asr_mithl_2": "17:08:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:01:00",
    "maghrib_jamah": "20:08:00",
    "isha_begins": "21:23:00",
-   "isha_jamah": "21:23:00",
-   "FIELD15": ""
+   "isha_jamah": "21:23:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-04-10",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-04-09",
    "fajr_begins": "5:30:00",
    "fajr_jamah": "5:40:00",
    "sunrise": "6:53:00",
@@ -1692,186 +1593,175 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:09:00",
    "asr_mithl_2": "17:09:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:02:00",
    "maghrib_jamah": "20:09:00",
    "isha_begins": "21:24:00",
-   "isha_jamah": "21:24:00",
-   "FIELD15": ""
+   "isha_jamah": "21:24:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-04-11",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-04-10",
    "fajr_begins": "5:28:00",
-   "fajr_jamah": "5:38:00",
+   "fajr_jamah": "5:58:00",
    "sunrise": "6:51:00",
    "zuhr_begins": "13:28:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:09:00",
    "asr_mithl_2": "17:09:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:03:00",
    "maghrib_jamah": "20:10:00",
    "isha_begins": "21:26:00",
-   "isha_jamah": "21:26:00",
-   "FIELD15": ""
+   "isha_jamah": "21:26:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-04-12",
+   "Day of Week": "Thursday",
+   "d_date": "2024-04-11",
    "fajr_begins": "5:26:00",
-   "fajr_jamah": "5:36:00",
+   "fajr_jamah": "5:56:00",
    "sunrise": "6:49:00",
    "zuhr_begins": "13:27:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:10:00",
    "asr_mithl_2": "17:10:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:04:00",
    "maghrib_jamah": "20:11:00",
    "isha_begins": "21:27:00",
-   "isha_jamah": "21:27:00",
-   "FIELD15": ""
+   "isha_jamah": "21:27:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-04-13",
+   "Day of Week": "Friday",
+   "d_date": "2024-04-12",
    "fajr_begins": "5:24:00",
-   "fajr_jamah": "5:34:00",
+   "fajr_jamah": "5:54:00",
    "sunrise": "6:48:00",
    "zuhr_begins": "13:27:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:10:00",
    "asr_mithl_2": "17:10:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:05:00",
    "maghrib_jamah": "20:12:00",
    "isha_begins": "21:28:00",
-   "isha_jamah": "21:28:00",
-   "FIELD15": ""
+   "isha_jamah": "21:28:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-04-14",
+   "Day of Week": "Saturday",
+   "d_date": "2024-04-13",
    "fajr_begins": "5:22:00",
-   "fajr_jamah": "5:32:00",
+   "fajr_jamah": "5:52:00",
    "sunrise": "6:46:00",
    "zuhr_begins": "13:27:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:11:00",
    "asr_mithl_2": "17:11:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:06:00",
    "maghrib_jamah": "20:13:00",
    "isha_begins": "21:30:00",
-   "isha_jamah": "21:30:00",
-   "FIELD15": ""
+   "isha_jamah": "21:30:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-04-15",
+   "Day of Week": "Sunday",
+   "d_date": "2024-04-14",
    "fajr_begins": "5:20:00",
-   "fajr_jamah": "5:30:00",
+   "fajr_jamah": "5:50:00",
    "sunrise": "6:44:00",
    "zuhr_begins": "13:27:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:11:00",
    "asr_mithl_2": "17:11:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:07:00",
    "maghrib_jamah": "20:14:00",
    "isha_begins": "21:31:00",
-   "isha_jamah": "21:31:00",
-   "FIELD15": ""
+   "isha_jamah": "21:31:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-04-16",
+   "Day of Week": "Monday",
+   "d_date": "2024-04-15",
    "fajr_begins": "5:18:00",
-   "fajr_jamah": "5:28:00",
+   "fajr_jamah": "5:48:00",
    "sunrise": "6:43:00",
    "zuhr_begins": "13:26:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:11:00",
    "asr_mithl_2": "17:11:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:09:00",
    "maghrib_jamah": "20:16:00",
    "isha_begins": "21:33:00",
-   "isha_jamah": "21:33:00",
-   "FIELD15": ""
+   "isha_jamah": "21:33:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-04-17",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-04-16",
    "fajr_begins": "5:16:00",
-   "fajr_jamah": "5:26:00",
+   "fajr_jamah": "5:46:00",
    "sunrise": "6:41:00",
    "zuhr_begins": "13:26:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:12:00",
    "asr_mithl_2": "17:12:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:10:00",
    "maghrib_jamah": "20:17:00",
    "isha_begins": "21:34:00",
-   "isha_jamah": "21:34:00",
-   "FIELD15": ""
+   "isha_jamah": "21:34:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-04-18",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-04-17",
    "fajr_begins": "5:15:00",
-   "fajr_jamah": "5:25:00",
+   "fajr_jamah": "5:45:00",
    "sunrise": "6:39:00",
    "zuhr_begins": "13:26:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:12:00",
    "asr_mithl_2": "17:12:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:11:00",
    "maghrib_jamah": "20:18:00",
    "isha_begins": "21:36:00",
-   "isha_jamah": "21:36:00",
-   "FIELD15": ""
+   "isha_jamah": "21:36:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-04-19",
+   "Day of Week": "Thursday",
+   "d_date": "2024-04-18",
    "fajr_begins": "5:13:00",
-   "fajr_jamah": "5:23:00",
+   "fajr_jamah": "5:43:00",
    "sunrise": "6:38:00",
    "zuhr_begins": "13:26:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:13:00",
    "asr_mithl_2": "17:13:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:12:00",
    "maghrib_jamah": "20:19:00",
    "isha_begins": "21:37:00",
-   "isha_jamah": "21:37:00",
-   "FIELD15": ""
+   "isha_jamah": "21:37:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-04-20",
+   "Day of Week": "Friday",
+   "d_date": "2024-04-19",
    "fajr_begins": "5:11:00",
-   "fajr_jamah": "5:21:00",
+   "fajr_jamah": "5:41:00",
    "sunrise": "6:36:00",
    "zuhr_begins": "13:25:00",
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:13:00",
    "asr_mithl_2": "17:13:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:13:00",
    "maghrib_jamah": "20:20:00",
    "isha_begins": "21:39:00",
-   "isha_jamah": "21:39:00",
-   "FIELD15": ""
+   "isha_jamah": "21:39:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-04-21",
+   "Day of Week": "Saturday",
+   "d_date": "2024-04-20",
    "fajr_begins": "5:09:00",
    "fajr_jamah": "5:39:00",
    "sunrise": "6:34:00",
@@ -1883,12 +1773,11 @@
    "maghrib_begins": "20:14:00",
    "maghrib_jamah": "20:21:00",
    "isha_begins": "21:40:00",
-   "isha_jamah": "21:40:00",
-   "FIELD15": ""
+   "isha_jamah": "21:40:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-04-22",
+   "Day of Week": "Sunday",
+   "d_date": "2024-04-21",
    "fajr_begins": "5:07:00",
    "fajr_jamah": "5:37:00",
    "sunrise": "6:33:00",
@@ -1900,12 +1789,11 @@
    "maghrib_begins": "20:16:00",
    "maghrib_jamah": "20:23:00",
    "isha_begins": "21:42:00",
-   "isha_jamah": "21:42:00",
-   "FIELD15": ""
+   "isha_jamah": "21:42:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-04-23",
+   "Day of Week": "Monday",
+   "d_date": "2024-04-22",
    "fajr_begins": "5:05:00",
    "fajr_jamah": "5:35:00",
    "sunrise": "6:31:00",
@@ -1917,12 +1805,11 @@
    "maghrib_begins": "20:17:00",
    "maghrib_jamah": "20:24:00",
    "isha_begins": "21:43:00",
-   "isha_jamah": "21:43:00",
-   "FIELD15": ""
+   "isha_jamah": "21:43:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-04-24",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-04-23",
    "fajr_begins": "5:03:00",
    "fajr_jamah": "5:33:00",
    "sunrise": "6:30:00",
@@ -1934,12 +1821,11 @@
    "maghrib_begins": "20:18:00",
    "maghrib_jamah": "20:25:00",
    "isha_begins": "21:45:00",
-   "isha_jamah": "21:45:00",
-   "FIELD15": ""
+   "isha_jamah": "21:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-04-25",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-04-24",
    "fajr_begins": "5:01:00",
    "fajr_jamah": "5:31:00",
    "sunrise": "6:28:00",
@@ -1951,12 +1837,11 @@
    "maghrib_begins": "20:19:00",
    "maghrib_jamah": "20:26:00",
    "isha_begins": "21:46:00",
-   "isha_jamah": "21:46:00",
-   "FIELD15": ""
+   "isha_jamah": "21:46:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-04-26",
+   "Day of Week": "Thursday",
+   "d_date": "2024-04-25",
    "fajr_begins": "4:59:00",
    "fajr_jamah": "5:29:00",
    "sunrise": "6:27:00",
@@ -1968,12 +1853,11 @@
    "maghrib_begins": "20:20:00",
    "maghrib_jamah": "20:27:00",
    "isha_begins": "21:48:00",
-   "isha_jamah": "21:48:00",
-   "FIELD15": ""
+   "isha_jamah": "21:48:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-04-27",
+   "Day of Week": "Friday",
+   "d_date": "2024-04-26",
    "fajr_begins": "4:57:00",
    "fajr_jamah": "5:27:00",
    "sunrise": "6:25:00",
@@ -1985,12 +1869,11 @@
    "maghrib_begins": "20:21:00",
    "maghrib_jamah": "20:28:00",
    "isha_begins": "21:49:00",
-   "isha_jamah": "21:49:00",
-   "FIELD15": ""
+   "isha_jamah": "21:49:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-04-28",
+   "Day of Week": "Saturday",
+   "d_date": "2024-04-27",
    "fajr_begins": "4:55:00",
    "fajr_jamah": "5:25:00",
    "sunrise": "6:24:00",
@@ -2002,12 +1885,11 @@
    "maghrib_begins": "20:23:00",
    "maghrib_jamah": "20:30:00",
    "isha_begins": "21:51:00",
-   "isha_jamah": "21:51:00",
-   "FIELD15": ""
+   "isha_jamah": "21:51:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-04-29",
+   "Day of Week": "Sunday",
+   "d_date": "2024-04-28",
    "fajr_begins": "4:54:00",
    "fajr_jamah": "5:24:00",
    "sunrise": "6:22:00",
@@ -2015,16 +1897,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:16:00",
    "asr_mithl_2": "17:16:00",
-   "asr_jamah": "17:30:00",
+   "asr_jamah": "17:45:00",
    "maghrib_begins": "20:24:00",
    "maghrib_jamah": "20:31:00",
    "isha_begins": "21:53:00",
-   "isha_jamah": "21:53:00",
-   "FIELD15": ""
+   "isha_jamah": "21:53:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-04-30",
+   "Day of Week": "Monday",
+   "d_date": "2024-04-29",
    "fajr_begins": "4:52:00",
    "fajr_jamah": "5:22:00",
    "sunrise": "6:21:00",
@@ -2036,12 +1917,11 @@
    "maghrib_begins": "20:25:00",
    "maghrib_jamah": "20:32:00",
    "isha_begins": "21:54:00",
-   "isha_jamah": "21:54:00",
-   "FIELD15": ""
+   "isha_jamah": "21:54:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-05-01",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-04-30",
    "fajr_begins": "4:50:00",
    "fajr_jamah": "5:20:00",
    "sunrise": "6:19:00",
@@ -2053,12 +1933,11 @@
    "maghrib_begins": "20:26:00",
    "maghrib_jamah": "20:33:00",
    "isha_begins": "21:56:30",
-   "isha_jamah": "21:56:30",
-   "FIELD15": ""
+   "isha_jamah": "21:56:30"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-05-02",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-05-01",
    "fajr_begins": "4:48:00",
    "fajr_jamah": "5:18:00",
    "sunrise": "6:18:00",
@@ -2070,12 +1949,11 @@
    "maghrib_begins": "20:27:00",
    "maghrib_jamah": "20:34:00",
    "isha_begins": "21:56:57",
-   "isha_jamah": "21:56:57",
-   "FIELD15": ""
+   "isha_jamah": "21:56:57"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-05-03",
+   "Day of Week": "Thursday",
+   "d_date": "2024-05-02",
    "fajr_begins": "4:46:00",
    "fajr_jamah": "5:16:00",
    "sunrise": "6:17:00",
@@ -2087,12 +1965,11 @@
    "maghrib_begins": "20:28:00",
    "maghrib_jamah": "20:35:00",
    "isha_begins": "21:58:24",
-   "isha_jamah": "21:58:24",
-   "FIELD15": ""
+   "isha_jamah": "21:58:24"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-05-04",
+   "Day of Week": "Friday",
+   "d_date": "2024-05-03",
    "fajr_begins": "4:44:00",
    "fajr_jamah": "5:14:00",
    "sunrise": "6:15:00",
@@ -2104,12 +1981,11 @@
    "maghrib_begins": "20:29:00",
    "maghrib_jamah": "20:36:00",
    "isha_begins": "21:58:51",
-   "isha_jamah": "21:58:51",
-   "FIELD15": ""
+   "isha_jamah": "21:58:51"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-05-05",
+   "Day of Week": "Saturday",
+   "d_date": "2024-05-04",
    "fajr_begins": "4:43:00",
    "fajr_jamah": "5:13:00",
    "sunrise": "6:14:00",
@@ -2121,12 +1997,11 @@
    "maghrib_begins": "20:31:00",
    "maghrib_jamah": "20:38:00",
    "isha_begins": "22:00:18",
-   "isha_jamah": "22:00:18",
-   "FIELD15": ""
+   "isha_jamah": "22:00:18"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-05-06",
+   "Day of Week": "Sunday",
+   "d_date": "2024-05-05",
    "fajr_begins": "4:41:00",
    "fajr_jamah": "5:11:00",
    "sunrise": "6:13:00",
@@ -2138,12 +2013,11 @@
    "maghrib_begins": "20:32:00",
    "maghrib_jamah": "20:39:00",
    "isha_begins": "22:01:45",
-   "isha_jamah": "22:01:45",
-   "FIELD15": ""
+   "isha_jamah": "22:01:45"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-05-07",
+   "Day of Week": "Monday",
+   "d_date": "2024-05-06",
    "fajr_begins": "4:39:00",
    "fajr_jamah": "5:09:00",
    "sunrise": "6:11:00",
@@ -2155,12 +2029,11 @@
    "maghrib_begins": "20:33:00",
    "maghrib_jamah": "20:40:00",
    "isha_begins": "22:02:13",
-   "isha_jamah": "22:02:13",
-   "FIELD15": ""
+   "isha_jamah": "22:02:13"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-05-08",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-05-07",
    "fajr_begins": "4:37:00",
    "fajr_jamah": "5:07:00",
    "sunrise": "6:10:00",
@@ -2172,12 +2045,11 @@
    "maghrib_begins": "20:34:00",
    "maghrib_jamah": "20:41:00",
    "isha_begins": "22:03:40",
-   "isha_jamah": "22:03:40",
-   "FIELD15": ""
+   "isha_jamah": "22:03:40"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-05-09",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-05-08",
    "fajr_begins": "4:36:00",
    "fajr_jamah": "5:06:00",
    "sunrise": "6:09:00",
@@ -2189,12 +2061,11 @@
    "maghrib_begins": "20:35:00",
    "maghrib_jamah": "20:42:00",
    "isha_begins": "22:04:07",
-   "isha_jamah": "22:04:07",
-   "FIELD15": ""
+   "isha_jamah": "22:04:07"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-05-10",
+   "Day of Week": "Thursday",
+   "d_date": "2024-05-09",
    "fajr_begins": "4:34:00",
    "fajr_jamah": "5:04:00",
    "sunrise": "6:08:00",
@@ -2206,12 +2077,11 @@
    "maghrib_begins": "20:36:00",
    "maghrib_jamah": "20:43:00",
    "isha_begins": "22:05:34",
-   "isha_jamah": "22:05:34",
-   "FIELD15": ""
+   "isha_jamah": "22:05:34"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-05-11",
+   "Day of Week": "Friday",
+   "d_date": "2024-05-10",
    "fajr_begins": "4:32:00",
    "fajr_jamah": "5:02:00",
    "sunrise": "6:06:00",
@@ -2223,12 +2093,11 @@
    "maghrib_begins": "20:37:00",
    "maghrib_jamah": "20:44:00",
    "isha_begins": "22:06:01",
-   "isha_jamah": "22:06:01",
-   "FIELD15": ""
+   "isha_jamah": "22:06:01"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-05-12",
+   "Day of Week": "Saturday",
+   "d_date": "2024-05-11",
    "fajr_begins": "4:31:00",
    "fajr_jamah": "5:01:00",
    "sunrise": "6:05:00",
@@ -2240,12 +2109,11 @@
    "maghrib_begins": "20:38:00",
    "maghrib_jamah": "20:45:00",
    "isha_begins": "22:07:28",
-   "isha_jamah": "22:07:28",
-   "FIELD15": ""
+   "isha_jamah": "22:07:28"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-05-13",
+   "Day of Week": "Sunday",
+   "d_date": "2024-05-12",
    "fajr_begins": "4:29:00",
    "fajr_jamah": "4:59:00",
    "sunrise": "6:04:00",
@@ -2257,12 +2125,11 @@
    "maghrib_begins": "20:40:00",
    "maghrib_jamah": "20:47:00",
    "isha_begins": "22:08:55",
-   "isha_jamah": "22:08:55",
-   "FIELD15": ""
+   "isha_jamah": "22:08:55"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-05-14",
+   "Day of Week": "Monday",
+   "d_date": "2024-05-13",
    "fajr_begins": "4:28:00",
    "fajr_jamah": "4:58:00",
    "sunrise": "6:03:00",
@@ -2274,12 +2141,11 @@
    "maghrib_begins": "20:41:00",
    "maghrib_jamah": "20:48:00",
    "isha_begins": "22:09:22",
-   "isha_jamah": "22:09:22",
-   "FIELD15": ""
+   "isha_jamah": "22:09:22"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-05-15",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-05-14",
    "fajr_begins": "4:26:00",
    "fajr_jamah": "4:56:00",
    "sunrise": "6:02:00",
@@ -2291,12 +2157,11 @@
    "maghrib_begins": "20:42:00",
    "maghrib_jamah": "20:49:00",
    "isha_begins": "22:10:49",
-   "isha_jamah": "22:10:49",
-   "FIELD15": ""
+   "isha_jamah": "22:10:49"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-05-16",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-05-15",
    "fajr_begins": "4:24:00",
    "fajr_jamah": "4:54:00",
    "sunrise": "6:01:00",
@@ -2308,12 +2173,11 @@
    "maghrib_begins": "20:43:00",
    "maghrib_jamah": "20:50:00",
    "isha_begins": "22:11:16",
-   "isha_jamah": "22:11:16",
-   "FIELD15": ""
+   "isha_jamah": "22:11:16"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-05-17",
+   "Day of Week": "Thursday",
+   "d_date": "2024-05-16",
    "fajr_begins": "4:23:00",
    "fajr_jamah": "4:53:00",
    "sunrise": "6:00:00",
@@ -2325,12 +2189,11 @@
    "maghrib_begins": "20:44:00",
    "maghrib_jamah": "20:51:00",
    "isha_begins": "22:12:44",
-   "isha_jamah": "22:12:44",
-   "FIELD15": ""
+   "isha_jamah": "22:12:44"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-05-18",
+   "Day of Week": "Friday",
+   "d_date": "2024-05-17",
    "fajr_begins": "4:22:00",
    "fajr_jamah": "4:52:00",
    "sunrise": "5:59:00",
@@ -2342,12 +2205,11 @@
    "maghrib_begins": "20:45:00",
    "maghrib_jamah": "20:52:00",
    "isha_begins": "22:13:11",
-   "isha_jamah": "22:13:11",
-   "FIELD15": ""
+   "isha_jamah": "22:13:11"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-05-19",
+   "Day of Week": "Saturday",
+   "d_date": "2024-05-18",
    "fajr_begins": "4:20:00",
    "fajr_jamah": "4:50:00",
    "sunrise": "5:58:00",
@@ -2359,12 +2221,11 @@
    "maghrib_begins": "20:46:00",
    "maghrib_jamah": "20:53:00",
    "isha_begins": "22:14:38",
-   "isha_jamah": "22:14:38",
-   "FIELD15": ""
+   "isha_jamah": "22:14:38"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-05-20",
+   "Day of Week": "Sunday",
+   "d_date": "2024-05-19",
    "fajr_begins": "4:19:00",
    "fajr_jamah": "4:49:00",
    "sunrise": "5:57:00",
@@ -2376,12 +2237,11 @@
    "maghrib_begins": "20:47:00",
    "maghrib_jamah": "20:54:00",
    "isha_begins": "22:15:05",
-   "isha_jamah": "22:15:05",
-   "FIELD15": ""
+   "isha_jamah": "22:15:05"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-05-21",
+   "Day of Week": "Monday",
+   "d_date": "2024-05-20",
    "fajr_begins": "4:17:00",
    "fajr_jamah": "4:47:00",
    "sunrise": "5:56:00",
@@ -2393,12 +2253,11 @@
    "maghrib_begins": "20:48:00",
    "maghrib_jamah": "20:55:00",
    "isha_begins": "22:16:32",
-   "isha_jamah": "22:16:32",
-   "FIELD15": ""
+   "isha_jamah": "22:16:32"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-05-22",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-05-21",
    "fajr_begins": "4:16:00",
    "fajr_jamah": "4:46:00",
    "sunrise": "5:55:00",
@@ -2410,12 +2269,11 @@
    "maghrib_begins": "20:49:00",
    "maghrib_jamah": "20:56:00",
    "isha_begins": "22:16:59",
-   "isha_jamah": "22:16:59",
-   "FIELD15": ""
+   "isha_jamah": "22:16:59"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-05-23",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-05-22",
    "fajr_begins": "4:15:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:54:00",
@@ -2427,12 +2285,11 @@
    "maghrib_begins": "20:50:00",
    "maghrib_jamah": "20:57:00",
    "isha_begins": "22:18:26",
-   "isha_jamah": "22:18:26",
-   "FIELD15": ""
+   "isha_jamah": "22:18:26"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-05-24",
+   "Day of Week": "Thursday",
+   "d_date": "2024-05-23",
    "fajr_begins": "4:13:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:53:00",
@@ -2444,12 +2301,11 @@
    "maghrib_begins": "20:51:00",
    "maghrib_jamah": "20:58:00",
    "isha_begins": "22:18:53",
-   "isha_jamah": "22:18:53",
-   "FIELD15": ""
+   "isha_jamah": "22:18:53"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-05-25",
+   "Day of Week": "Friday",
+   "d_date": "2024-05-24",
    "fajr_begins": "4:12:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:53:00",
@@ -2461,12 +2317,11 @@
    "maghrib_begins": "20:52:00",
    "maghrib_jamah": "20:59:00",
    "isha_begins": "22:20:20",
-   "isha_jamah": "22:20:20",
-   "FIELD15": ""
+   "isha_jamah": "22:20:20"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-05-26",
+   "Day of Week": "Saturday",
+   "d_date": "2024-05-25",
    "fajr_begins": "4:11:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:52:00",
@@ -2478,12 +2333,11 @@
    "maghrib_begins": "20:53:00",
    "maghrib_jamah": "21:00:00",
    "isha_begins": "22:20:47",
-   "isha_jamah": "22:20:47",
-   "FIELD15": ""
+   "isha_jamah": "22:20:47"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-05-27",
+   "Day of Week": "Sunday",
+   "d_date": "2024-05-26",
    "fajr_begins": "4:10:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:51:00",
@@ -2495,12 +2349,11 @@
    "maghrib_begins": "20:54:00",
    "maghrib_jamah": "21:01:00",
    "isha_begins": "22:21:15",
-   "isha_jamah": "22:21:15",
-   "FIELD15": ""
+   "isha_jamah": "22:21:15"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-05-28",
+   "Day of Week": "Monday",
+   "d_date": "2024-05-27",
    "fajr_begins": "4:09:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:50:00",
@@ -2512,12 +2365,11 @@
    "maghrib_begins": "20:55:00",
    "maghrib_jamah": "21:02:00",
    "isha_begins": "22:22:42",
-   "isha_jamah": "22:22:42",
-   "FIELD15": ""
+   "isha_jamah": "22:22:42"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-05-29",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-05-28",
    "fajr_begins": "4:08:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:50:00",
@@ -2529,12 +2381,11 @@
    "maghrib_begins": "20:55:00",
    "maghrib_jamah": "21:02:00",
    "isha_begins": "22:23:09",
-   "isha_jamah": "22:23:09",
-   "FIELD15": ""
+   "isha_jamah": "22:23:09"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-05-30",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-05-29",
    "fajr_begins": "4:07:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:49:00",
@@ -2546,12 +2397,11 @@
    "maghrib_begins": "20:56:00",
    "maghrib_jamah": "21:03:00",
    "isha_begins": "22:23:36",
-   "isha_jamah": "22:23:36",
-   "FIELD15": ""
+   "isha_jamah": "22:23:36"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-05-31",
+   "Day of Week": "Thursday",
+   "d_date": "2024-05-30",
    "fajr_begins": "4:06:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:49:00",
@@ -2563,12 +2413,11 @@
    "maghrib_begins": "20:57:00",
    "maghrib_jamah": "21:04:00",
    "isha_begins": "22:24:03",
-   "isha_jamah": "22:24:03",
-   "FIELD15": ""
+   "isha_jamah": "22:24:03"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-06-01",
+   "Day of Week": "Friday",
+   "d_date": "2024-05-31",
    "fajr_begins": "4:05:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:48:00",
@@ -2580,12 +2429,11 @@
    "maghrib_begins": "20:58:00",
    "maghrib_jamah": "21:05:00",
    "isha_begins": "22:25:00",
-   "isha_jamah": "22:25:00",
-   "FIELD15": ""
+   "isha_jamah": "22:25:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-06-02",
+   "Day of Week": "Saturday",
+   "d_date": "2024-06-01",
    "fajr_begins": "4:04:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:47:00",
@@ -2597,12 +2445,11 @@
    "maghrib_begins": "20:59:00",
    "maghrib_jamah": "21:06:00",
    "isha_begins": "22:26:00",
-   "isha_jamah": "22:26:00",
-   "FIELD15": ""
+   "isha_jamah": "22:26:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-06-03",
+   "Day of Week": "Sunday",
+   "d_date": "2024-06-02",
    "fajr_begins": "4:03:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:47:00",
@@ -2614,12 +2461,11 @@
    "maghrib_begins": "21:00:00",
    "maghrib_jamah": "21:07:00",
    "isha_begins": "22:27:00",
-   "isha_jamah": "22:27:00",
-   "FIELD15": ""
+   "isha_jamah": "22:27:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-06-04",
+   "Day of Week": "Monday",
+   "d_date": "2024-06-03",
    "fajr_begins": "4:02:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:47:00",
@@ -2631,12 +2477,11 @@
    "maghrib_begins": "21:00:00",
    "maghrib_jamah": "21:07:00",
    "isha_begins": "22:28:00",
-   "isha_jamah": "22:28:00",
-   "FIELD15": ""
+   "isha_jamah": "22:28:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-06-05",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-06-04",
    "fajr_begins": "4:01:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:46:00",
@@ -2648,12 +2493,11 @@
    "maghrib_begins": "21:01:00",
    "maghrib_jamah": "21:08:00",
    "isha_begins": "22:29:00",
-   "isha_jamah": "22:29:00",
-   "FIELD15": ""
+   "isha_jamah": "22:29:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-06-06",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-06-05",
    "fajr_begins": "4:01:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:46:00",
@@ -2665,12 +2509,11 @@
    "maghrib_begins": "21:02:00",
    "maghrib_jamah": "21:09:00",
    "isha_begins": "22:30:00",
-   "isha_jamah": "22:30:00",
-   "FIELD15": ""
+   "isha_jamah": "22:30:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-06-07",
+   "Day of Week": "Thursday",
+   "d_date": "2024-06-06",
    "fajr_begins": "4:00:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2682,12 +2525,11 @@
    "maghrib_begins": "21:02:00",
    "maghrib_jamah": "21:09:00",
    "isha_begins": "22:31:00",
-   "isha_jamah": "22:31:00",
-   "FIELD15": ""
+   "isha_jamah": "22:31:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-06-08",
+   "Day of Week": "Friday",
+   "d_date": "2024-06-07",
    "fajr_begins": "4:00:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2699,12 +2541,11 @@
    "maghrib_begins": "21:03:00",
    "maghrib_jamah": "21:10:00",
    "isha_begins": "22:32:00",
-   "isha_jamah": "22:32:00",
-   "FIELD15": ""
+   "isha_jamah": "22:32:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-06-09",
+   "Day of Week": "Saturday",
+   "d_date": "2024-06-08",
    "fajr_begins": "3:59:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2716,12 +2557,11 @@
    "maghrib_begins": "21:04:00",
    "maghrib_jamah": "21:11:00",
    "isha_begins": "22:32:00",
-   "isha_jamah": "22:32:00",
-   "FIELD15": ""
+   "isha_jamah": "22:32:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-06-10",
+   "Day of Week": "Sunday",
+   "d_date": "2024-06-09",
    "fajr_begins": "3:59:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2733,12 +2573,11 @@
    "maghrib_begins": "21:04:00",
    "maghrib_jamah": "21:11:00",
    "isha_begins": "22:33:00",
-   "isha_jamah": "22:33:00",
-   "FIELD15": ""
+   "isha_jamah": "22:33:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-06-11",
+   "Day of Week": "Monday",
+   "d_date": "2024-06-10",
    "fajr_begins": "3:58:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2750,12 +2589,11 @@
    "maghrib_begins": "21:05:00",
    "maghrib_jamah": "21:12:00",
    "isha_begins": "22:34:00",
-   "isha_jamah": "22:34:00",
-   "FIELD15": ""
+   "isha_jamah": "22:34:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-06-12",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-06-11",
    "fajr_begins": "3:58:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2767,12 +2605,11 @@
    "maghrib_begins": "21:05:00",
    "maghrib_jamah": "21:12:00",
    "isha_begins": "22:35:00",
-   "isha_jamah": "22:35:00",
-   "FIELD15": ""
+   "isha_jamah": "22:35:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-06-13",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-06-12",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2784,12 +2621,11 @@
    "maghrib_begins": "21:06:00",
    "maghrib_jamah": "21:13:00",
    "isha_begins": "22:35:00",
-   "isha_jamah": "22:35:00",
-   "FIELD15": ""
+   "isha_jamah": "22:35:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-06-14",
+   "Day of Week": "Thursday",
+   "d_date": "2024-06-13",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2801,12 +2637,11 @@
    "maghrib_begins": "21:06:00",
    "maghrib_jamah": "21:13:00",
    "isha_begins": "22:36:00",
-   "isha_jamah": "22:36:00",
-   "FIELD15": ""
+   "isha_jamah": "22:36:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-06-15",
+   "Day of Week": "Friday",
+   "d_date": "2024-06-14",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2818,12 +2653,11 @@
    "maghrib_begins": "21:07:00",
    "maghrib_jamah": "21:14:00",
    "isha_begins": "22:37:00",
-   "isha_jamah": "22:37:00",
-   "FIELD15": ""
+   "isha_jamah": "22:37:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-06-16",
+   "Day of Week": "Saturday",
+   "d_date": "2024-06-15",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2835,29 +2669,11 @@
    "maghrib_begins": "21:07:00",
    "maghrib_jamah": "21:14:00",
    "isha_begins": "22:37:00",
-   "isha_jamah": "22:37:00",
-   "FIELD15": ""
- },
- {
-   "Day of Week": "Saturday",
-   "d_date": "2023-06-17",
-   "fajr_begins": "3:57:00",
-   "fajr_jamah": "4:45:00",
-   "sunrise": "5:44:00",
-   "zuhr_begins": "13:27:00",
-   "zuhr_jamah": "13:45:00",
-   "asr_mithl_1": "17:32:00",
-   "asr_mithl_2": "17:32:00",
-   "asr_jamah": "17:45:00",
-   "maghrib_begins": "21:08:00",
-   "maghrib_jamah": "21:15:00",
-   "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
+   "isha_jamah": "22:37:00"
  },
  {
    "Day of Week": "Sunday",
-   "d_date": "2023-06-18",
+   "d_date": "2024-06-16",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2869,12 +2685,27 @@
    "maghrib_begins": "21:08:00",
    "maghrib_jamah": "21:15:00",
    "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
+   "isha_jamah": "22:38:00"
  },
  {
    "Day of Week": "Monday",
-   "d_date": "2023-06-19",
+   "d_date": "2024-06-17",
+   "fajr_begins": "3:57:00",
+   "fajr_jamah": "4:45:00",
+   "sunrise": "5:44:00",
+   "zuhr_begins": "13:27:00",
+   "zuhr_jamah": "13:45:00",
+   "asr_mithl_1": "17:32:00",
+   "asr_mithl_2": "17:32:00",
+   "asr_jamah": "18:00:00",
+   "maghrib_begins": "21:08:00",
+   "maghrib_jamah": "21:15:00",
+   "isha_begins": "22:38:00",
+   "isha_jamah": "22:38:00"
+ },
+ {
+   "Day of Week": "Tuesday",
+   "d_date": "2024-06-18",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2886,29 +2717,11 @@
    "maghrib_begins": "21:08:00",
    "maghrib_jamah": "21:15:00",
    "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
- },
- {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-06-20",
-   "fajr_begins": "3:57:00",
-   "fajr_jamah": "4:45:00",
-   "sunrise": "5:44:00",
-   "zuhr_begins": "13:28:00",
-   "zuhr_jamah": "13:45:00",
-   "asr_mithl_1": "17:33:00",
-   "asr_mithl_2": "17:33:00",
-   "asr_jamah": "18:00:00",
-   "maghrib_begins": "21:09:00",
-   "maghrib_jamah": "21:16:00",
-   "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:38:00"
  },
  {
    "Day of Week": "Wednesday",
-   "d_date": "2023-06-21",
+   "d_date": "2024-06-19",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:44:00",
@@ -2920,12 +2733,27 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
    "Day of Week": "Thursday",
-   "d_date": "2023-06-22",
+   "d_date": "2024-06-20",
+   "fajr_begins": "3:57:00",
+   "fajr_jamah": "4:45:00",
+   "sunrise": "5:44:00",
+   "zuhr_begins": "13:28:00",
+   "zuhr_jamah": "13:45:00",
+   "asr_mithl_1": "17:33:00",
+   "asr_mithl_2": "17:33:00",
+   "asr_jamah": "18:00:00",
+   "maghrib_begins": "21:09:00",
+   "maghrib_jamah": "21:16:00",
+   "isha_begins": "22:39:00",
+   "isha_jamah": "22:39:00"
+ },
+ {
+   "Day of Week": "Friday",
+   "d_date": "2024-06-21",
    "fajr_begins": "3:57:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2937,12 +2765,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-06-23",
+   "Day of Week": "Saturday",
+   "d_date": "2024-06-22",
    "fajr_begins": "3:58:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2954,12 +2781,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-06-24",
+   "Day of Week": "Sunday",
+   "d_date": "2024-06-23",
    "fajr_begins": "3:58:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2971,12 +2797,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-06-25",
+   "Day of Week": "Monday",
+   "d_date": "2024-06-24",
    "fajr_begins": "3:58:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:45:00",
@@ -2988,29 +2813,11 @@
    "maghrib_begins": "21:10:00",
    "maghrib_jamah": "21:17:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
- },
- {
-   "Day of Week": "Monday",
-   "d_date": "2023-06-26",
-   "fajr_begins": "3:59:00",
-   "fajr_jamah": "4:45:00",
-   "sunrise": "5:46:00",
-   "zuhr_begins": "13:29:00",
-   "zuhr_jamah": "13:45:00",
-   "asr_mithl_1": "17:34:00",
-   "asr_mithl_2": "17:34:00",
-   "asr_jamah": "18:00:00",
-   "maghrib_begins": "21:10:00",
-   "maghrib_jamah": "21:17:00",
-   "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
    "Day of Week": "Tuesday",
-   "d_date": "2023-06-27",
+   "d_date": "2024-06-25",
    "fajr_begins": "3:59:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:46:00",
@@ -3022,12 +2829,27 @@
    "maghrib_begins": "21:10:00",
    "maghrib_jamah": "21:17:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
    "Day of Week": "Wednesday",
-   "d_date": "2023-06-28",
+   "d_date": "2024-06-26",
+   "fajr_begins": "3:59:00",
+   "fajr_jamah": "4:45:00",
+   "sunrise": "5:46:00",
+   "zuhr_begins": "13:29:00",
+   "zuhr_jamah": "13:45:00",
+   "asr_mithl_1": "17:34:00",
+   "asr_mithl_2": "17:34:00",
+   "asr_jamah": "18:00:00",
+   "maghrib_begins": "21:10:00",
+   "maghrib_jamah": "21:17:00",
+   "isha_begins": "22:39:00",
+   "isha_jamah": "22:39:00"
+ },
+ {
+   "Day of Week": "Thursday",
+   "d_date": "2024-06-27",
    "fajr_begins": "4:00:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:46:00",
@@ -3039,12 +2861,11 @@
    "maghrib_begins": "21:10:00",
    "maghrib_jamah": "21:17:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-06-29",
+   "Day of Week": "Friday",
+   "d_date": "2024-06-28",
    "fajr_begins": "4:00:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:47:00",
@@ -3056,12 +2877,11 @@
    "maghrib_begins": "21:10:00",
    "maghrib_jamah": "21:17:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-06-30",
+   "Day of Week": "Saturday",
+   "d_date": "2024-06-29",
    "fajr_begins": "4:01:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:47:00",
@@ -3073,12 +2893,11 @@
    "maghrib_begins": "21:10:00",
    "maghrib_jamah": "21:17:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-07-01",
+   "Day of Week": "Sunday",
+   "d_date": "2024-06-30",
    "fajr_begins": "4:02:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:48:00",
@@ -3090,12 +2909,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:39:00",
-   "isha_jamah": "22:39:00",
-   "FIELD15": ""
+   "isha_jamah": "22:39:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-07-02",
+   "Day of Week": "Monday",
+   "d_date": "2024-07-01",
    "fajr_begins": "4:03:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:48:00",
@@ -3107,12 +2925,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
+   "isha_jamah": "22:38:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-07-03",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-07-02",
    "fajr_begins": "4:03:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:49:00",
@@ -3124,12 +2941,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
+   "isha_jamah": "22:38:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-07-04",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-07-03",
    "fajr_begins": "4:04:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:49:00",
@@ -3141,12 +2957,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:38:00",
-   "isha_jamah": "22:38:00",
-   "FIELD15": ""
+   "isha_jamah": "22:38:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-07-05",
+   "Day of Week": "Thursday",
+   "d_date": "2024-07-04",
    "fajr_begins": "4:05:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:50:00",
@@ -3158,12 +2973,11 @@
    "maghrib_begins": "21:09:00",
    "maghrib_jamah": "21:16:00",
    "isha_begins": "22:37:00",
-   "isha_jamah": "22:37:00",
-   "FIELD15": ""
+   "isha_jamah": "22:37:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-07-06",
+   "Day of Week": "Friday",
+   "d_date": "2024-07-05",
    "fajr_begins": "4:06:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:51:00",
@@ -3175,12 +2989,11 @@
    "maghrib_begins": "21:08:00",
    "maghrib_jamah": "21:15:00",
    "isha_begins": "22:37:00",
-   "isha_jamah": "22:37:00",
-   "FIELD15": ""
+   "isha_jamah": "22:37:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-07-07",
+   "Day of Week": "Saturday",
+   "d_date": "2024-07-06",
    "fajr_begins": "4:07:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:51:00",
@@ -3192,12 +3005,11 @@
    "maghrib_begins": "21:08:00",
    "maghrib_jamah": "21:15:00",
    "isha_begins": "22:36:00",
-   "isha_jamah": "22:36:00",
-   "FIELD15": ""
+   "isha_jamah": "22:36:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-07-08",
+   "Day of Week": "Sunday",
+   "d_date": "2024-07-07",
    "fajr_begins": "4:08:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:52:00",
@@ -3209,12 +3021,11 @@
    "maghrib_begins": "21:08:00",
    "maghrib_jamah": "21:15:00",
    "isha_begins": "22:35:00",
-   "isha_jamah": "22:35:00",
-   "FIELD15": ""
+   "isha_jamah": "22:35:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-07-09",
+   "Day of Week": "Monday",
+   "d_date": "2024-07-08",
    "fajr_begins": "4:09:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:53:00",
@@ -3226,12 +3037,11 @@
    "maghrib_begins": "21:07:00",
    "maghrib_jamah": "21:14:00",
    "isha_begins": "22:35:00",
-   "isha_jamah": "22:35:00",
-   "FIELD15": ""
+   "isha_jamah": "22:35:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-07-10",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-07-09",
    "fajr_begins": "4:10:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:53:00",
@@ -3243,12 +3053,11 @@
    "maghrib_begins": "21:07:00",
    "maghrib_jamah": "21:14:00",
    "isha_begins": "22:34:00",
-   "isha_jamah": "22:34:00",
-   "FIELD15": ""
+   "isha_jamah": "22:34:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-07-11",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-07-10",
    "fajr_begins": "4:11:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:54:00",
@@ -3260,12 +3069,11 @@
    "maghrib_begins": "21:06:00",
    "maghrib_jamah": "21:13:00",
    "isha_begins": "22:33:00",
-   "isha_jamah": "22:33:00",
-   "FIELD15": ""
+   "isha_jamah": "22:33:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-07-12",
+   "Day of Week": "Thursday",
+   "d_date": "2024-07-11",
    "fajr_begins": "4:13:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:55:00",
@@ -3277,12 +3085,11 @@
    "maghrib_begins": "21:06:00",
    "maghrib_jamah": "21:13:00",
    "isha_begins": "22:33:00",
-   "isha_jamah": "22:33:00",
-   "FIELD15": ""
+   "isha_jamah": "22:33:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-07-13",
+   "Day of Week": "Friday",
+   "d_date": "2024-07-12",
    "fajr_begins": "4:14:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:56:00",
@@ -3294,12 +3101,11 @@
    "maghrib_begins": "21:05:00",
    "maghrib_jamah": "21:12:00",
    "isha_begins": "22:32:00",
-   "isha_jamah": "22:32:00",
-   "FIELD15": ""
+   "isha_jamah": "22:32:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-07-14",
+   "Day of Week": "Saturday",
+   "d_date": "2024-07-13",
    "fajr_begins": "4:15:00",
    "fajr_jamah": "4:45:00",
    "sunrise": "5:56:00",
@@ -3311,12 +3117,11 @@
    "maghrib_begins": "21:05:00",
    "maghrib_jamah": "21:12:00",
    "isha_begins": "22:31:00",
-   "isha_jamah": "22:31:00",
-   "FIELD15": ""
+   "isha_jamah": "22:31:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-07-15",
+   "Day of Week": "Sunday",
+   "d_date": "2024-07-14",
    "fajr_begins": "4:16:00",
    "fajr_jamah": "4:46:00",
    "sunrise": "5:57:00",
@@ -3328,12 +3133,11 @@
    "maghrib_begins": "21:04:00",
    "maghrib_jamah": "21:11:00",
    "isha_begins": "22:30:00",
-   "isha_jamah": "22:30:00",
-   "FIELD15": ""
+   "isha_jamah": "22:30:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-07-16",
+   "Day of Week": "Monday",
+   "d_date": "2024-07-15",
    "fajr_begins": "4:17:00",
    "fajr_jamah": "4:47:00",
    "sunrise": "5:58:00",
@@ -3345,12 +3149,11 @@
    "maghrib_begins": "21:04:00",
    "maghrib_jamah": "21:11:00",
    "isha_begins": "22:29:00",
-   "isha_jamah": "22:29:00",
-   "FIELD15": ""
+   "isha_jamah": "22:29:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-07-17",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-07-16",
    "fajr_begins": "4:19:00",
    "fajr_jamah": "4:49:00",
    "sunrise": "5:59:00",
@@ -3362,12 +3165,11 @@
    "maghrib_begins": "21:03:00",
    "maghrib_jamah": "21:10:00",
    "isha_begins": "22:28:00",
-   "isha_jamah": "22:28:00",
-   "FIELD15": ""
+   "isha_jamah": "22:28:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-07-18",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-07-17",
    "fajr_begins": "4:20:00",
    "fajr_jamah": "4:50:00",
    "sunrise": "6:00:00",
@@ -3379,12 +3181,11 @@
    "maghrib_begins": "21:02:00",
    "maghrib_jamah": "21:09:00",
    "isha_begins": "22:27:00",
-   "isha_jamah": "22:27:00",
-   "FIELD15": ""
+   "isha_jamah": "22:27:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-07-19",
+   "Day of Week": "Thursday",
+   "d_date": "2024-07-18",
    "fajr_begins": "4:21:00",
    "fajr_jamah": "4:51:00",
    "sunrise": "6:01:00",
@@ -3396,12 +3197,11 @@
    "maghrib_begins": "21:01:00",
    "maghrib_jamah": "21:08:00",
    "isha_begins": "22:26:00",
-   "isha_jamah": "22:26:00",
-   "FIELD15": ""
+   "isha_jamah": "22:26:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-07-20",
+   "Day of Week": "Friday",
+   "d_date": "2024-07-19",
    "fajr_begins": "4:23:00",
    "fajr_jamah": "4:53:00",
    "sunrise": "6:02:00",
@@ -3413,12 +3213,11 @@
    "maghrib_begins": "21:01:00",
    "maghrib_jamah": "21:08:00",
    "isha_begins": "22:25:00",
-   "isha_jamah": "22:25:00",
-   "FIELD15": ""
+   "isha_jamah": "22:25:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-07-21",
+   "Day of Week": "Saturday",
+   "d_date": "2024-07-20",
    "fajr_begins": "4:24:00",
    "fajr_jamah": "4:54:00",
    "sunrise": "6:03:00",
@@ -3430,12 +3229,11 @@
    "maghrib_begins": "21:00:00",
    "maghrib_jamah": "21:07:00",
    "isha_begins": "22:24:00",
-   "isha_jamah": "22:24:00",
-   "FIELD15": ""
+   "isha_jamah": "22:24:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-07-22",
+   "Day of Week": "Sunday",
+   "d_date": "2024-07-21",
    "fajr_begins": "4:26:00",
    "fajr_jamah": "4:56:00",
    "sunrise": "6:03:00",
@@ -3447,12 +3245,11 @@
    "maghrib_begins": "20:59:00",
    "maghrib_jamah": "21:06:00",
    "isha_begins": "22:22:00",
-   "isha_jamah": "22:22:00",
-   "FIELD15": ""
+   "isha_jamah": "22:22:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-07-23",
+   "Day of Week": "Monday",
+   "d_date": "2024-07-22",
    "fajr_begins": "4:27:00",
    "fajr_jamah": "4:57:00",
    "sunrise": "6:04:00",
@@ -3464,12 +3261,11 @@
    "maghrib_begins": "20:58:00",
    "maghrib_jamah": "21:05:00",
    "isha_begins": "22:21:00",
-   "isha_jamah": "22:21:00",
-   "FIELD15": ""
+   "isha_jamah": "22:21:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-07-24",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-07-23",
    "fajr_begins": "4:29:00",
    "fajr_jamah": "4:59:00",
    "sunrise": "6:05:00",
@@ -3481,12 +3277,11 @@
    "maghrib_begins": "20:57:00",
    "maghrib_jamah": "21:04:00",
    "isha_begins": "22:20:00",
-   "isha_jamah": "22:20:00",
-   "FIELD15": ""
+   "isha_jamah": "22:20:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-07-25",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-07-24",
    "fajr_begins": "4:30:00",
    "fajr_jamah": "5:00:00",
    "sunrise": "6:06:00",
@@ -3498,12 +3293,11 @@
    "maghrib_begins": "20:56:00",
    "maghrib_jamah": "21:03:00",
    "isha_begins": "22:19:00",
-   "isha_jamah": "22:19:00",
-   "FIELD15": ""
+   "isha_jamah": "22:19:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-07-26",
+   "Day of Week": "Thursday",
+   "d_date": "2024-07-25",
    "fajr_begins": "4:31:00",
    "fajr_jamah": "5:01:00",
    "sunrise": "6:07:00",
@@ -3515,12 +3309,11 @@
    "maghrib_begins": "20:55:00",
    "maghrib_jamah": "21:02:00",
    "isha_begins": "22:17:00",
-   "isha_jamah": "22:17:00",
-   "FIELD15": ""
+   "isha_jamah": "22:17:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-07-27",
+   "Day of Week": "Friday",
+   "d_date": "2024-07-26",
    "fajr_begins": "4:33:00",
    "fajr_jamah": "5:03:00",
    "sunrise": "6:08:00",
@@ -3532,12 +3325,11 @@
    "maghrib_begins": "20:54:00",
    "maghrib_jamah": "21:01:00",
    "isha_begins": "22:16:00",
-   "isha_jamah": "22:16:00",
-   "FIELD15": ""
+   "isha_jamah": "22:16:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-07-28",
+   "Day of Week": "Saturday",
+   "d_date": "2024-07-27",
    "fajr_begins": "4:34:00",
    "fajr_jamah": "5:04:00",
    "sunrise": "6:09:00",
@@ -3549,12 +3341,11 @@
    "maghrib_begins": "20:53:00",
    "maghrib_jamah": "21:00:00",
    "isha_begins": "22:14:00",
-   "isha_jamah": "22:14:00",
-   "FIELD15": ""
+   "isha_jamah": "22:14:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-07-29",
+   "Day of Week": "Sunday",
+   "d_date": "2024-07-28",
    "fajr_begins": "4:36:00",
    "fajr_jamah": "5:06:00",
    "sunrise": "6:10:00",
@@ -3566,12 +3357,11 @@
    "maghrib_begins": "20:52:00",
    "maghrib_jamah": "20:59:00",
    "isha_begins": "22:13:00",
-   "isha_jamah": "22:13:00",
-   "FIELD15": ""
+   "isha_jamah": "22:13:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-07-30",
+   "Day of Week": "Monday",
+   "d_date": "2024-07-29",
    "fajr_begins": "4:37:00",
    "fajr_jamah": "5:07:00",
    "sunrise": "6:11:00",
@@ -3583,12 +3373,11 @@
    "maghrib_begins": "20:51:00",
    "maghrib_jamah": "20:58:00",
    "isha_begins": "22:12:00",
-   "isha_jamah": "22:12:00",
-   "FIELD15": ""
+   "isha_jamah": "22:12:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-07-31",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-07-30",
    "fajr_begins": "4:39:00",
    "fajr_jamah": "5:09:00",
    "sunrise": "6:12:00",
@@ -3600,12 +3389,11 @@
    "maghrib_begins": "20:50:00",
    "maghrib_jamah": "20:57:00",
    "isha_begins": "22:10:00",
-   "isha_jamah": "22:10:00",
-   "FIELD15": ""
+   "isha_jamah": "22:10:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-08-01",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-07-31",
    "fajr_begins": "4:40:00",
    "fajr_jamah": "5:10:00",
    "sunrise": "6:13:00",
@@ -3617,12 +3405,11 @@
    "maghrib_begins": "20:49:00",
    "maghrib_jamah": "20:56:00",
    "isha_begins": "22:08:30",
-   "isha_jamah": "22:08:30",
-   "FIELD15": ""
+   "isha_jamah": "22:08:30"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-08-02",
+   "Day of Week": "Thursday",
+   "d_date": "2024-08-01",
    "fajr_begins": "4:42:00",
    "fajr_jamah": "5:12:00",
    "sunrise": "6:14:00",
@@ -3634,12 +3421,11 @@
    "maghrib_begins": "20:48:00",
    "maghrib_jamah": "20:55:00",
    "isha_begins": "22:07:59",
-   "isha_jamah": "22:07:59",
-   "FIELD15": ""
+   "isha_jamah": "22:07:59"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-08-03",
+   "Day of Week": "Friday",
+   "d_date": "2024-08-02",
    "fajr_begins": "4:44:00",
    "fajr_jamah": "5:14:00",
    "sunrise": "6:16:00",
@@ -3651,12 +3437,11 @@
    "maghrib_begins": "20:47:00",
    "maghrib_jamah": "20:54:00",
    "isha_begins": "22:06:28",
-   "isha_jamah": "22:06:28",
-   "FIELD15": ""
+   "isha_jamah": "22:06:28"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-08-04",
+   "Day of Week": "Saturday",
+   "d_date": "2024-08-03",
    "fajr_begins": "4:45:00",
    "fajr_jamah": "5:15:00",
    "sunrise": "6:17:00",
@@ -3668,12 +3453,11 @@
    "maghrib_begins": "20:45:00",
    "maghrib_jamah": "20:52:00",
    "isha_begins": "22:04:57",
-   "isha_jamah": "22:04:57",
-   "FIELD15": ""
+   "isha_jamah": "22:04:57"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-08-05",
+   "Day of Week": "Sunday",
+   "d_date": "2024-08-04",
    "fajr_begins": "4:47:00",
    "fajr_jamah": "5:17:00",
    "sunrise": "6:18:00",
@@ -3681,16 +3465,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:29:00",
    "asr_mithl_2": "17:29:00",
-   "asr_jamah": "18:00:00",
+   "asr_jamah": "17:45:00",
    "maghrib_begins": "20:44:00",
    "maghrib_jamah": "20:51:00",
    "isha_begins": "22:04:26",
-   "isha_jamah": "22:04:26",
-   "FIELD15": ""
+   "isha_jamah": "22:04:26"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-08-06",
+   "Day of Week": "Monday",
+   "d_date": "2024-08-05",
    "fajr_begins": "4:48:00",
    "fajr_jamah": "5:18:00",
    "sunrise": "6:19:00",
@@ -3702,12 +3485,11 @@
    "maghrib_begins": "20:43:00",
    "maghrib_jamah": "20:50:00",
    "isha_begins": "22:02:55",
-   "isha_jamah": "22:02:55",
-   "FIELD15": ""
+   "isha_jamah": "22:02:55"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-08-07",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-08-06",
    "fajr_begins": "4:50:00",
    "fajr_jamah": "5:20:00",
    "sunrise": "6:20:00",
@@ -3719,12 +3501,11 @@
    "maghrib_begins": "20:42:00",
    "maghrib_jamah": "20:49:00",
    "isha_begins": "22:01:24",
-   "isha_jamah": "22:01:24",
-   "FIELD15": ""
+   "isha_jamah": "22:01:24"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-08-08",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-08-07",
    "fajr_begins": "4:51:00",
    "fajr_jamah": "5:21:00",
    "sunrise": "6:21:00",
@@ -3736,12 +3517,11 @@
    "maghrib_begins": "20:40:00",
    "maghrib_jamah": "20:47:00",
    "isha_begins": "21:59:53",
-   "isha_jamah": "21:59:53",
-   "FIELD15": ""
+   "isha_jamah": "21:59:53"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-08-09",
+   "Day of Week": "Thursday",
+   "d_date": "2024-08-08",
    "fajr_begins": "4:53:00",
    "fajr_jamah": "5:23:00",
    "sunrise": "6:22:00",
@@ -3753,12 +3533,11 @@
    "maghrib_begins": "20:39:00",
    "maghrib_jamah": "20:46:00",
    "isha_begins": "21:59:22",
-   "isha_jamah": "21:59:22",
-   "FIELD15": ""
+   "isha_jamah": "21:59:22"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-08-10",
+   "Day of Week": "Friday",
+   "d_date": "2024-08-09",
    "fajr_begins": "4:54:00",
    "fajr_jamah": "5:24:00",
    "sunrise": "6:23:00",
@@ -3770,12 +3549,11 @@
    "maghrib_begins": "20:37:00",
    "maghrib_jamah": "20:44:00",
    "isha_begins": "21:57:51",
-   "isha_jamah": "21:57:51",
-   "FIELD15": ""
+   "isha_jamah": "21:57:51"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-08-11",
+   "Day of Week": "Saturday",
+   "d_date": "2024-08-10",
    "fajr_begins": "4:56:00",
    "fajr_jamah": "5:26:00",
    "sunrise": "6:24:00",
@@ -3787,12 +3565,11 @@
    "maghrib_begins": "20:36:00",
    "maghrib_jamah": "20:43:00",
    "isha_begins": "21:56:00",
-   "isha_jamah": "21:56:00",
-   "FIELD15": ""
+   "isha_jamah": "21:56:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-08-12",
+   "Day of Week": "Sunday",
+   "d_date": "2024-08-11",
    "fajr_begins": "4:57:00",
    "fajr_jamah": "5:27:00",
    "sunrise": "6:25:00",
@@ -3804,12 +3581,11 @@
    "maghrib_begins": "20:35:00",
    "maghrib_jamah": "20:42:00",
    "isha_begins": "21:54:49",
-   "isha_jamah": "21:54:49",
-   "FIELD15": ""
+   "isha_jamah": "21:54:49"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-08-13",
+   "Day of Week": "Monday",
+   "d_date": "2024-08-12",
    "fajr_begins": "4:59:00",
    "fajr_jamah": "5:29:00",
    "sunrise": "6:26:00",
@@ -3821,12 +3597,11 @@
    "maghrib_begins": "20:33:00",
    "maghrib_jamah": "20:40:00",
    "isha_begins": "21:53:18",
-   "isha_jamah": "21:53:18",
-   "FIELD15": ""
+   "isha_jamah": "21:53:18"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-08-14",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-08-13",
    "fajr_begins": "5:00:00",
    "fajr_jamah": "5:30:00",
    "sunrise": "6:27:00",
@@ -3838,12 +3613,11 @@
    "maghrib_begins": "20:32:00",
    "maghrib_jamah": "20:39:00",
    "isha_begins": "21:51:47",
-   "isha_jamah": "21:51:47",
-   "FIELD15": ""
+   "isha_jamah": "21:51:47"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-08-15",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-08-14",
    "fajr_begins": "5:02:00",
    "fajr_jamah": "5:32:00",
    "sunrise": "6:28:00",
@@ -3855,12 +3629,11 @@
    "maghrib_begins": "20:30:00",
    "maghrib_jamah": "20:37:00",
    "isha_begins": "21:51:16",
-   "isha_jamah": "21:51:16",
-   "FIELD15": ""
+   "isha_jamah": "21:51:16"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-08-16",
+   "Day of Week": "Thursday",
+   "d_date": "2024-08-15",
    "fajr_begins": "5:03:00",
    "fajr_jamah": "5:33:00",
    "sunrise": "6:30:00",
@@ -3872,12 +3645,11 @@
    "maghrib_begins": "20:29:00",
    "maghrib_jamah": "20:36:00",
    "isha_begins": "21:49:45",
-   "isha_jamah": "21:49:45",
-   "FIELD15": ""
+   "isha_jamah": "21:49:45"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-08-17",
+   "Day of Week": "Friday",
+   "d_date": "2024-08-16",
    "fajr_begins": "5:05:00",
    "fajr_jamah": "5:35:00",
    "sunrise": "6:31:00",
@@ -3889,12 +3661,11 @@
    "maghrib_begins": "20:27:00",
    "maghrib_jamah": "20:34:00",
    "isha_begins": "21:48:15",
-   "isha_jamah": "21:48:15",
-   "FIELD15": ""
+   "isha_jamah": "21:48:15"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-08-18",
+   "Day of Week": "Saturday",
+   "d_date": "2024-08-17",
    "fajr_begins": "5:06:00",
    "fajr_jamah": "5:36:00",
    "sunrise": "6:32:00",
@@ -3906,12 +3677,11 @@
    "maghrib_begins": "20:26:00",
    "maghrib_jamah": "20:33:00",
    "isha_begins": "21:46:44",
-   "isha_jamah": "21:46:44",
-   "FIELD15": ""
+   "isha_jamah": "21:46:44"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-08-19",
+   "Day of Week": "Sunday",
+   "d_date": "2024-08-18",
    "fajr_begins": "5:08:00",
    "fajr_jamah": "5:38:00",
    "sunrise": "6:33:00",
@@ -3923,12 +3693,11 @@
    "maghrib_begins": "20:24:00",
    "maghrib_jamah": "20:31:00",
    "isha_begins": "21:45:13",
-   "isha_jamah": "21:45:13",
-   "FIELD15": ""
+   "isha_jamah": "21:45:13"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-08-20",
+   "Day of Week": "Monday",
+   "d_date": "2024-08-19",
    "fajr_begins": "5:09:00",
    "fajr_jamah": "5:39:00",
    "sunrise": "6:34:00",
@@ -3940,12 +3709,11 @@
    "maghrib_begins": "20:23:00",
    "maghrib_jamah": "20:30:00",
    "isha_begins": "21:43:42",
-   "isha_jamah": "21:43:42",
-   "FIELD15": ""
+   "isha_jamah": "21:43:42"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-08-21",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-08-20",
    "fajr_begins": "5:11:00",
    "fajr_jamah": "5:41:00",
    "sunrise": "6:35:00",
@@ -3957,12 +3725,11 @@
    "maghrib_begins": "20:21:00",
    "maghrib_jamah": "20:28:00",
    "isha_begins": "21:41:00",
-   "isha_jamah": "21:41:00",
-   "FIELD15": ""
+   "isha_jamah": "21:41:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-08-22",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-08-21",
    "fajr_begins": "5:12:00",
    "fajr_jamah": "5:42:00",
    "sunrise": "6:36:00",
@@ -3974,12 +3741,11 @@
    "maghrib_begins": "20:20:00",
    "maghrib_jamah": "20:27:00",
    "isha_begins": "21:40:40",
-   "isha_jamah": "21:40:40",
-   "FIELD15": ""
+   "isha_jamah": "21:40:40"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-08-23",
+   "Day of Week": "Thursday",
+   "d_date": "2024-08-22",
    "fajr_begins": "5:14:00",
    "fajr_jamah": "5:44:00",
    "sunrise": "6:37:00",
@@ -3991,12 +3757,11 @@
    "maghrib_begins": "20:18:00",
    "maghrib_jamah": "20:25:00",
    "isha_begins": "21:39:09",
-   "isha_jamah": "21:39:09",
-   "FIELD15": ""
+   "isha_jamah": "21:39:09"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-08-24",
+   "Day of Week": "Friday",
+   "d_date": "2024-08-23",
    "fajr_begins": "5:15:00",
    "fajr_jamah": "5:45:00",
    "sunrise": "6:38:00",
@@ -4008,12 +3773,11 @@
    "maghrib_begins": "20:16:00",
    "maghrib_jamah": "20:23:00",
    "isha_begins": "21:37:38",
-   "isha_jamah": "21:37:38",
-   "FIELD15": ""
+   "isha_jamah": "21:37:38"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-08-25",
+   "Day of Week": "Saturday",
+   "d_date": "2024-08-24",
    "fajr_begins": "5:17:00",
    "fajr_jamah": "5:47:00",
    "sunrise": "6:39:00",
@@ -4025,12 +3789,11 @@
    "maghrib_begins": "20:15:00",
    "maghrib_jamah": "20:22:00",
    "isha_begins": "21:36:07",
-   "isha_jamah": "21:36:07",
-   "FIELD15": ""
+   "isha_jamah": "21:36:07"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-08-26",
+   "Day of Week": "Sunday",
+   "d_date": "2024-08-25",
    "fajr_begins": "5:18:00",
    "fajr_jamah": "5:48:00",
    "sunrise": "6:40:00",
@@ -4038,16 +3801,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:14:00",
    "asr_mithl_2": "17:14:00",
-   "asr_jamah": "17:45:00",
+   "asr_jamah": "17:30:00",
    "maghrib_begins": "20:13:00",
    "maghrib_jamah": "20:20:00",
    "isha_begins": "21:34:36",
-   "isha_jamah": "21:34:36",
-   "FIELD15": ""
+   "isha_jamah": "21:34:36"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-08-27",
+   "Day of Week": "Monday",
+   "d_date": "2024-08-26",
    "fajr_begins": "5:19:00",
    "fajr_jamah": "5:49:00",
    "sunrise": "6:42:00",
@@ -4059,12 +3821,11 @@
    "maghrib_begins": "20:11:00",
    "maghrib_jamah": "20:18:00",
    "isha_begins": "21:33:05",
-   "isha_jamah": "21:33:05",
-   "FIELD15": ""
+   "isha_jamah": "21:33:05"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-08-28",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-08-27",
    "fajr_begins": "5:21:00",
    "fajr_jamah": "5:51:00",
    "sunrise": "6:43:00",
@@ -4076,12 +3837,11 @@
    "maghrib_begins": "20:10:00",
    "maghrib_jamah": "20:17:00",
    "isha_begins": "21:31:34",
-   "isha_jamah": "21:31:34",
-   "FIELD15": ""
+   "isha_jamah": "21:31:34"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-08-29",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-08-28",
    "fajr_begins": "5:22:00",
    "fajr_jamah": "5:52:00",
    "sunrise": "6:44:00",
@@ -4093,12 +3853,11 @@
    "maghrib_begins": "20:08:00",
    "maghrib_jamah": "20:15:00",
    "isha_begins": "21:30:03",
-   "isha_jamah": "21:30:03",
-   "FIELD15": ""
+   "isha_jamah": "21:30:03"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-08-30",
+   "Day of Week": "Thursday",
+   "d_date": "2024-08-29",
    "fajr_begins": "5:24:00",
    "fajr_jamah": "5:54:00",
    "sunrise": "6:45:00",
@@ -4110,12 +3869,11 @@
    "maghrib_begins": "20:06:00",
    "maghrib_jamah": "20:13:00",
    "isha_begins": "21:28:32",
-   "isha_jamah": "21:28:32",
-   "FIELD15": ""
+   "isha_jamah": "21:28:32"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-08-31",
+   "Day of Week": "Friday",
+   "d_date": "2024-08-30",
    "fajr_begins": "5:25:00",
    "fajr_jamah": "5:55:00",
    "sunrise": "6:46:00",
@@ -4127,12 +3885,11 @@
    "maghrib_begins": "20:05:00",
    "maghrib_jamah": "20:12:00",
    "isha_begins": "21:27:01",
-   "isha_jamah": "21:27:01",
-   "FIELD15": ""
+   "isha_jamah": "21:27:01"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-09-01",
+   "Day of Week": "Saturday",
+   "d_date": "2024-08-31",
    "fajr_begins": "5:26:00",
    "fajr_jamah": "5:56:00",
    "sunrise": "6:47:00",
@@ -4144,12 +3901,11 @@
    "maghrib_begins": "20:03:00",
    "maghrib_jamah": "20:10:00",
    "isha_begins": "21:25:00",
-   "isha_jamah": "21:25:00",
-   "FIELD15": ""
+   "isha_jamah": "21:25:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-09-02",
+   "Day of Week": "Sunday",
+   "d_date": "2024-09-01",
    "fajr_begins": "5:28:00",
    "fajr_jamah": "5:58:00",
    "sunrise": "6:48:00",
@@ -4161,12 +3917,11 @@
    "maghrib_begins": "20:01:00",
    "maghrib_jamah": "20:08:00",
    "isha_begins": "21:23:00",
-   "isha_jamah": "21:23:00",
-   "FIELD15": ""
+   "isha_jamah": "21:23:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-09-03",
+   "Day of Week": "Monday",
+   "d_date": "2024-09-02",
    "fajr_begins": "5:29:00",
    "fajr_jamah": "5:59:00",
    "sunrise": "6:49:00",
@@ -4178,12 +3933,11 @@
    "maghrib_begins": "20:00:00",
    "maghrib_jamah": "20:07:00",
    "isha_begins": "21:21:00",
-   "isha_jamah": "21:21:00",
-   "FIELD15": ""
+   "isha_jamah": "21:21:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-09-04",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-09-03",
    "fajr_begins": "5:30:00",
    "fajr_jamah": "6:00:00",
    "sunrise": "6:50:00",
@@ -4195,12 +3949,11 @@
    "maghrib_begins": "19:58:00",
    "maghrib_jamah": "20:05:00",
    "isha_begins": "21:19:00",
-   "isha_jamah": "21:19:00",
-   "FIELD15": ""
+   "isha_jamah": "21:19:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-09-05",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-09-04",
    "fajr_begins": "5:32:00",
    "fajr_jamah": "6:02:00",
    "sunrise": "6:51:00",
@@ -4212,12 +3965,11 @@
    "maghrib_begins": "19:56:00",
    "maghrib_jamah": "20:03:00",
    "isha_begins": "21:17:00",
-   "isha_jamah": "21:17:00",
-   "FIELD15": ""
+   "isha_jamah": "21:17:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-09-06",
+   "Day of Week": "Thursday",
+   "d_date": "2024-09-05",
    "fajr_begins": "5:33:00",
    "fajr_jamah": "6:03:00",
    "sunrise": "6:53:00",
@@ -4229,12 +3981,11 @@
    "maghrib_begins": "19:54:00",
    "maghrib_jamah": "20:01:00",
    "isha_begins": "21:15:00",
-   "isha_jamah": "21:15:00",
-   "FIELD15": ""
+   "isha_jamah": "21:15:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-09-07",
+   "Day of Week": "Friday",
+   "d_date": "2024-09-06",
    "fajr_begins": "5:34:00",
    "fajr_jamah": "6:04:00",
    "sunrise": "6:54:00",
@@ -4246,12 +3997,11 @@
    "maghrib_begins": "19:53:00",
    "maghrib_jamah": "20:00:00",
    "isha_begins": "21:14:00",
-   "isha_jamah": "21:14:00",
-   "FIELD15": ""
+   "isha_jamah": "21:14:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-09-08",
+   "Day of Week": "Saturday",
+   "d_date": "2024-09-07",
    "fajr_begins": "5:36:00",
    "fajr_jamah": "6:06:00",
    "sunrise": "6:55:00",
@@ -4263,12 +4013,11 @@
    "maghrib_begins": "19:51:00",
    "maghrib_jamah": "19:58:00",
    "isha_begins": "21:12:00",
-   "isha_jamah": "21:12:00",
-   "FIELD15": ""
+   "isha_jamah": "21:12:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-09-09",
+   "Day of Week": "Sunday",
+   "d_date": "2024-09-08",
    "fajr_begins": "5:37:00",
    "fajr_jamah": "6:07:00",
    "sunrise": "6:56:00",
@@ -4276,16 +4025,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "17:00:00",
    "asr_mithl_2": "17:00:00",
-   "asr_jamah": "17:30:00",
+   "asr_jamah": "17:15:00",
    "maghrib_begins": "19:49:00",
    "maghrib_jamah": "19:56:00",
    "isha_begins": "21:10:00",
-   "isha_jamah": "21:10:00",
-   "FIELD15": ""
+   "isha_jamah": "21:10:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-09-10",
+   "Day of Week": "Monday",
+   "d_date": "2024-09-09",
    "fajr_begins": "5:38:00",
    "fajr_jamah": "6:08:00",
    "sunrise": "6:57:00",
@@ -4297,12 +4045,11 @@
    "maghrib_begins": "19:47:00",
    "maghrib_jamah": "19:54:00",
    "isha_begins": "21:08:00",
-   "isha_jamah": "21:08:00",
-   "FIELD15": ""
+   "isha_jamah": "21:08:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-09-11",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-09-10",
    "fajr_begins": "5:40:00",
    "fajr_jamah": "6:10:00",
    "sunrise": "6:58:00",
@@ -4314,12 +4061,11 @@
    "maghrib_begins": "19:46:00",
    "maghrib_jamah": "19:53:00",
    "isha_begins": "21:06:00",
-   "isha_jamah": "21:06:00",
-   "FIELD15": ""
+   "isha_jamah": "21:06:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-09-12",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-09-11",
    "fajr_begins": "5:41:00",
    "fajr_jamah": "6:11:00",
    "sunrise": "6:59:00",
@@ -4331,12 +4077,11 @@
    "maghrib_begins": "19:44:00",
    "maghrib_jamah": "19:51:00",
    "isha_begins": "21:04:00",
-   "isha_jamah": "21:04:00",
-   "FIELD15": ""
+   "isha_jamah": "21:04:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-09-13",
+   "Day of Week": "Thursday",
+   "d_date": "2024-09-12",
    "fajr_begins": "5:42:00",
    "fajr_jamah": "6:12:00",
    "sunrise": "7:00:00",
@@ -4348,12 +4093,11 @@
    "maghrib_begins": "19:42:00",
    "maghrib_jamah": "19:49:00",
    "isha_begins": "21:02:00",
-   "isha_jamah": "21:02:00",
-   "FIELD15": ""
+   "isha_jamah": "21:02:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-09-14",
+   "Day of Week": "Friday",
+   "d_date": "2024-09-13",
    "fajr_begins": "5:43:00",
    "fajr_jamah": "6:13:00",
    "sunrise": "7:01:00",
@@ -4365,12 +4109,11 @@
    "maghrib_begins": "19:40:00",
    "maghrib_jamah": "19:47:00",
    "isha_begins": "21:00:00",
-   "isha_jamah": "21:00:00",
-   "FIELD15": ""
+   "isha_jamah": "21:00:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-09-15",
+   "Day of Week": "Saturday",
+   "d_date": "2024-09-14",
    "fajr_begins": "5:45:00",
    "fajr_jamah": "6:15:00",
    "sunrise": "7:02:00",
@@ -4382,12 +4125,11 @@
    "maghrib_begins": "19:38:00",
    "maghrib_jamah": "19:45:00",
    "isha_begins": "20:58:00",
-   "isha_jamah": "20:58:00",
-   "FIELD15": ""
+   "isha_jamah": "20:58:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-09-16",
+   "Day of Week": "Sunday",
+   "d_date": "2024-09-15",
    "fajr_begins": "5:46:00",
    "fajr_jamah": "6:16:00",
    "sunrise": "7:03:00",
@@ -4399,12 +4141,11 @@
    "maghrib_begins": "19:37:00",
    "maghrib_jamah": "19:44:00",
    "isha_begins": "20:56:00",
-   "isha_jamah": "20:56:00",
-   "FIELD15": ""
+   "isha_jamah": "20:56:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-09-17",
+   "Day of Week": "Monday",
+   "d_date": "2024-09-16",
    "fajr_begins": "5:47:00",
    "fajr_jamah": "6:17:00",
    "sunrise": "7:04:00",
@@ -4416,12 +4157,11 @@
    "maghrib_begins": "19:35:00",
    "maghrib_jamah": "19:42:00",
    "isha_begins": "20:54:00",
-   "isha_jamah": "20:54:00",
-   "FIELD15": ""
+   "isha_jamah": "20:54:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-09-18",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-09-17",
    "fajr_begins": "5:48:00",
    "fajr_jamah": "6:18:00",
    "sunrise": "7:06:00",
@@ -4433,12 +4173,11 @@
    "maghrib_begins": "19:33:00",
    "maghrib_jamah": "19:40:00",
    "isha_begins": "20:52:00",
-   "isha_jamah": "20:52:00",
-   "FIELD15": ""
+   "isha_jamah": "20:52:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-09-19",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-09-18",
    "fajr_begins": "5:50:00",
    "fajr_jamah": "6:20:00",
    "sunrise": "7:07:00",
@@ -4450,12 +4189,11 @@
    "maghrib_begins": "19:31:00",
    "maghrib_jamah": "19:38:00",
    "isha_begins": "20:50:00",
-   "isha_jamah": "20:50:00",
-   "FIELD15": ""
+   "isha_jamah": "20:50:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-09-20",
+   "Day of Week": "Thursday",
+   "d_date": "2024-09-19",
    "fajr_begins": "5:51:00",
    "fajr_jamah": "6:21:00",
    "sunrise": "7:08:00",
@@ -4467,12 +4205,11 @@
    "maghrib_begins": "19:29:00",
    "maghrib_jamah": "19:36:00",
    "isha_begins": "20:48:00",
-   "isha_jamah": "20:48:00",
-   "FIELD15": ""
+   "isha_jamah": "20:48:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-09-21",
+   "Day of Week": "Friday",
+   "d_date": "2024-09-20",
    "fajr_begins": "5:52:00",
    "fajr_jamah": "6:22:00",
    "sunrise": "7:09:00",
@@ -4484,12 +4221,11 @@
    "maghrib_begins": "19:27:00",
    "maghrib_jamah": "19:34:00",
    "isha_begins": "20:46:00",
-   "isha_jamah": "20:46:00",
-   "FIELD15": ""
+   "isha_jamah": "20:46:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-09-22",
+   "Day of Week": "Saturday",
+   "d_date": "2024-09-21",
    "fajr_begins": "5:53:00",
    "fajr_jamah": "6:23:00",
    "sunrise": "7:10:00",
@@ -4501,12 +4237,11 @@
    "maghrib_begins": "19:26:00",
    "maghrib_jamah": "19:33:00",
    "isha_begins": "20:44:00",
-   "isha_jamah": "20:44:00",
-   "FIELD15": ""
+   "isha_jamah": "20:44:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-09-23",
+   "Day of Week": "Sunday",
+   "d_date": "2024-09-22",
    "fajr_begins": "5:55:00",
    "fajr_jamah": "6:25:00",
    "sunrise": "7:11:00",
@@ -4514,16 +4249,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:43:00",
    "asr_mithl_2": "16:43:00",
-   "asr_jamah": "17:15:00",
+   "asr_jamah": "17:00:00",
    "maghrib_begins": "19:24:00",
    "maghrib_jamah": "19:31:00",
    "isha_begins": "20:42:00",
-   "isha_jamah": "20:42:00",
-   "FIELD15": ""
+   "isha_jamah": "20:42:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-09-24",
+   "Day of Week": "Monday",
+   "d_date": "2024-09-23",
    "fajr_begins": "5:56:00",
    "fajr_jamah": "6:26:00",
    "sunrise": "7:12:00",
@@ -4535,12 +4269,11 @@
    "maghrib_begins": "19:22:00",
    "maghrib_jamah": "19:29:00",
    "isha_begins": "20:40:00",
-   "isha_jamah": "20:40:00",
-   "FIELD15": ""
+   "isha_jamah": "20:40:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-09-25",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-09-24",
    "fajr_begins": "5:57:00",
    "fajr_jamah": "6:27:00",
    "sunrise": "7:13:00",
@@ -4552,12 +4285,11 @@
    "maghrib_begins": "19:20:00",
    "maghrib_jamah": "19:27:00",
    "isha_begins": "20:38:00",
-   "isha_jamah": "20:38:00",
-   "FIELD15": ""
+   "isha_jamah": "20:38:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-09-26",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-09-25",
    "fajr_begins": "5:58:00",
    "fajr_jamah": "6:28:00",
    "sunrise": "7:14:00",
@@ -4569,12 +4301,11 @@
    "maghrib_begins": "19:18:00",
    "maghrib_jamah": "19:25:00",
    "isha_begins": "20:36:00",
-   "isha_jamah": "20:36:00",
-   "FIELD15": ""
+   "isha_jamah": "20:36:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-09-27",
+   "Day of Week": "Thursday",
+   "d_date": "2024-09-26",
    "fajr_begins": "5:59:00",
    "fajr_jamah": "6:29:00",
    "sunrise": "7:15:00",
@@ -4586,12 +4317,11 @@
    "maghrib_begins": "19:17:00",
    "maghrib_jamah": "19:24:00",
    "isha_begins": "20:35:00",
-   "isha_jamah": "20:35:00",
-   "FIELD15": ""
+   "isha_jamah": "20:35:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-09-28",
+   "Day of Week": "Friday",
+   "d_date": "2024-09-27",
    "fajr_begins": "6:00:00",
    "fajr_jamah": "6:30:00",
    "sunrise": "7:16:00",
@@ -4603,12 +4333,11 @@
    "maghrib_begins": "19:15:00",
    "maghrib_jamah": "19:22:00",
    "isha_begins": "20:33:00",
-   "isha_jamah": "20:33:00",
-   "FIELD15": ""
+   "isha_jamah": "20:33:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-09-29",
+   "Day of Week": "Saturday",
+   "d_date": "2024-09-28",
    "fajr_begins": "6:02:00",
    "fajr_jamah": "6:32:00",
    "sunrise": "7:18:00",
@@ -4620,12 +4349,11 @@
    "maghrib_begins": "19:13:00",
    "maghrib_jamah": "19:20:00",
    "isha_begins": "20:31:00",
-   "isha_jamah": "20:31:00",
-   "FIELD15": ""
+   "isha_jamah": "20:31:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-09-30",
+   "Day of Week": "Sunday",
+   "d_date": "2024-09-29",
    "fajr_begins": "6:03:00",
    "fajr_jamah": "6:33:00",
    "sunrise": "7:19:00",
@@ -4637,12 +4365,11 @@
    "maghrib_begins": "19:11:00",
    "maghrib_jamah": "19:18:00",
    "isha_begins": "20:29:00",
-   "isha_jamah": "20:29:00",
-   "FIELD15": ""
+   "isha_jamah": "20:29:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-10-01",
+   "Day of Week": "Monday",
+   "d_date": "2024-09-30",
    "fajr_begins": "6:04:00",
    "fajr_jamah": "6:34:00",
    "sunrise": "7:20:00",
@@ -4654,12 +4381,11 @@
    "maghrib_begins": "19:10:00",
    "maghrib_jamah": "19:17:00",
    "isha_begins": "20:27:00",
-   "isha_jamah": "20:27:00",
-   "FIELD15": ""
+   "isha_jamah": "20:27:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-10-02",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-10-01",
    "fajr_begins": "6:05:00",
    "fajr_jamah": "6:35:00",
    "sunrise": "7:21:00",
@@ -4671,12 +4397,11 @@
    "maghrib_begins": "19:08:00",
    "maghrib_jamah": "19:15:00",
    "isha_begins": "20:25:00",
-   "isha_jamah": "20:25:00",
-   "FIELD15": ""
+   "isha_jamah": "20:25:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-10-03",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-10-02",
    "fajr_begins": "6:06:00",
    "fajr_jamah": "6:36:00",
    "sunrise": "7:22:00",
@@ -4688,12 +4413,11 @@
    "maghrib_begins": "19:06:00",
    "maghrib_jamah": "19:13:00",
    "isha_begins": "20:24:00",
-   "isha_jamah": "20:24:00",
-   "FIELD15": ""
+   "isha_jamah": "20:24:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-10-04",
+   "Day of Week": "Thursday",
+   "d_date": "2024-10-03",
    "fajr_begins": "6:08:00",
    "fajr_jamah": "6:38:00",
    "sunrise": "7:23:00",
@@ -4705,12 +4429,11 @@
    "maghrib_begins": "19:04:00",
    "maghrib_jamah": "19:11:00",
    "isha_begins": "20:22:00",
-   "isha_jamah": "20:22:00",
-   "FIELD15": ""
+   "isha_jamah": "20:22:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-10-05",
+   "Day of Week": "Friday",
+   "d_date": "2024-10-04",
    "fajr_begins": "6:09:00",
    "fajr_jamah": "6:39:00",
    "sunrise": "7:24:00",
@@ -4722,12 +4445,11 @@
    "maghrib_begins": "19:02:00",
    "maghrib_jamah": "19:09:00",
    "isha_begins": "20:20:00",
-   "isha_jamah": "20:20:00",
-   "FIELD15": ""
+   "isha_jamah": "20:20:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-10-06",
+   "Day of Week": "Saturday",
+   "d_date": "2024-10-05",
    "fajr_begins": "6:10:00",
    "fajr_jamah": "6:40:00",
    "sunrise": "7:25:00",
@@ -4739,12 +4461,11 @@
    "maghrib_begins": "19:01:00",
    "maghrib_jamah": "19:08:00",
    "isha_begins": "20:18:00",
-   "isha_jamah": "20:18:00",
-   "FIELD15": ""
+   "isha_jamah": "20:18:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-10-07",
+   "Day of Week": "Sunday",
+   "d_date": "2024-10-06",
    "fajr_begins": "6:11:00",
    "fajr_jamah": "6:41:00",
    "sunrise": "7:27:00",
@@ -4752,16 +4473,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:25:00",
    "asr_mithl_2": "16:25:00",
-   "asr_jamah": "17:00:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:59:00",
    "maghrib_jamah": "19:06:00",
    "isha_begins": "20:16:00",
-   "isha_jamah": "20:16:00",
-   "FIELD15": ""
+   "isha_jamah": "20:16:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-10-08",
+   "Day of Week": "Monday",
+   "d_date": "2024-10-07",
    "fajr_begins": "6:12:00",
    "fajr_jamah": "6:42:00",
    "sunrise": "7:28:00",
@@ -4773,12 +4493,11 @@
    "maghrib_begins": "18:57:00",
    "maghrib_jamah": "19:04:00",
    "isha_begins": "20:15:00",
-   "isha_jamah": "20:15:00",
-   "FIELD15": ""
+   "isha_jamah": "20:15:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-10-09",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-10-08",
    "fajr_begins": "6:13:00",
    "fajr_jamah": "6:43:00",
    "sunrise": "7:29:00",
@@ -4790,12 +4509,11 @@
    "maghrib_begins": "18:56:00",
    "maghrib_jamah": "19:03:00",
    "isha_begins": "20:13:00",
-   "isha_jamah": "20:13:00",
-   "FIELD15": ""
+   "isha_jamah": "20:13:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-10-10",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-10-09",
    "fajr_begins": "6:14:00",
    "fajr_jamah": "6:44:00",
    "sunrise": "7:30:00",
@@ -4807,12 +4525,11 @@
    "maghrib_begins": "18:54:00",
    "maghrib_jamah": "19:01:00",
    "isha_begins": "20:11:00",
-   "isha_jamah": "20:11:00",
-   "FIELD15": ""
+   "isha_jamah": "20:11:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-10-11",
+   "Day of Week": "Thursday",
+   "d_date": "2024-10-10",
    "fajr_begins": "6:16:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:31:00",
@@ -4824,12 +4541,11 @@
    "maghrib_begins": "18:52:00",
    "maghrib_jamah": "18:59:00",
    "isha_begins": "20:10:00",
-   "isha_jamah": "20:10:00",
-   "FIELD15": ""
+   "isha_jamah": "20:10:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-10-12",
+   "Day of Week": "Friday",
+   "d_date": "2024-10-11",
    "fajr_begins": "6:17:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:32:00",
@@ -4841,12 +4557,11 @@
    "maghrib_begins": "18:50:00",
    "maghrib_jamah": "18:57:00",
    "isha_begins": "20:08:00",
-   "isha_jamah": "20:08:00",
-   "FIELD15": ""
+   "isha_jamah": "20:08:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-10-13",
+   "Day of Week": "Saturday",
+   "d_date": "2024-10-12",
    "fajr_begins": "6:18:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:34:00",
@@ -4858,12 +4573,11 @@
    "maghrib_begins": "18:49:00",
    "maghrib_jamah": "18:56:00",
    "isha_begins": "20:06:00",
-   "isha_jamah": "20:06:00",
-   "FIELD15": ""
+   "isha_jamah": "20:06:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-10-14",
+   "Day of Week": "Sunday",
+   "d_date": "2024-10-13",
    "fajr_begins": "6:19:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:35:00",
@@ -4875,12 +4589,11 @@
    "maghrib_begins": "18:47:00",
    "maghrib_jamah": "18:54:00",
    "isha_begins": "20:05:00",
-   "isha_jamah": "20:05:00",
-   "FIELD15": ""
+   "isha_jamah": "20:05:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-10-15",
+   "Day of Week": "Monday",
+   "d_date": "2024-10-14",
    "fajr_begins": "6:20:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:36:00",
@@ -4888,16 +4601,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:15:00",
    "asr_mithl_2": "16:15:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:45:00",
    "maghrib_jamah": "18:52:00",
    "isha_begins": "20:03:00",
-   "isha_jamah": "20:03:00",
-   "FIELD15": ""
+   "isha_jamah": "20:03:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-10-16",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-10-15",
    "fajr_begins": "6:21:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:37:00",
@@ -4905,16 +4617,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:14:00",
    "asr_mithl_2": "16:14:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:44:00",
    "maghrib_jamah": "18:51:00",
    "isha_begins": "20:02:00",
-   "isha_jamah": "20:02:00",
-   "FIELD15": ""
+   "isha_jamah": "20:02:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-10-17",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-10-16",
    "fajr_begins": "6:22:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:38:00",
@@ -4922,16 +4633,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:12:00",
    "asr_mithl_2": "16:12:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:42:00",
    "maghrib_jamah": "18:49:00",
    "isha_begins": "20:00:00",
-   "isha_jamah": "20:00:00",
-   "FIELD15": ""
+   "isha_jamah": "20:00:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-10-18",
+   "Day of Week": "Thursday",
+   "d_date": "2024-10-17",
    "fajr_begins": "6:23:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:40:00",
@@ -4939,16 +4649,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:11:00",
    "asr_mithl_2": "16:11:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:41:00",
    "maghrib_jamah": "18:48:00",
    "isha_begins": "19:58:00",
-   "isha_jamah": "19:58:00",
-   "FIELD15": ""
+   "isha_jamah": "19:58:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-10-19",
+   "Day of Week": "Friday",
+   "d_date": "2024-10-18",
    "fajr_begins": "6:25:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:41:00",
@@ -4956,16 +4665,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:10:00",
    "asr_mithl_2": "16:10:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:39:00",
    "maghrib_jamah": "18:46:00",
    "isha_begins": "19:57:00",
-   "isha_jamah": "19:57:00",
-   "FIELD15": ""
+   "isha_jamah": "19:57:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-10-20",
+   "Day of Week": "Saturday",
+   "d_date": "2024-10-19",
    "fajr_begins": "6:26:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:42:00",
@@ -4973,16 +4681,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "16:09:00",
    "asr_mithl_2": "16:09:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:45:00",
    "maghrib_begins": "18:37:00",
    "maghrib_jamah": "18:44:00",
    "isha_begins": "19:55:00",
-   "isha_jamah": "19:55:00",
-   "FIELD15": ""
+   "isha_jamah": "19:55:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-10-21",
+   "Day of Week": "Sunday",
+   "d_date": "2024-10-20",
    "fajr_begins": "6:27:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:43:00",
@@ -4994,12 +4701,11 @@
    "maghrib_begins": "18:36:00",
    "maghrib_jamah": "18:43:00",
    "isha_begins": "19:54:00",
-   "isha_jamah": "19:54:00",
-   "FIELD15": ""
+   "isha_jamah": "19:54:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-10-22",
+   "Day of Week": "Monday",
+   "d_date": "2024-10-21",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:44:00",
@@ -5011,12 +4717,11 @@
    "maghrib_begins": "18:34:00",
    "maghrib_jamah": "18:41:00",
    "isha_begins": "19:52:00",
-   "isha_jamah": "19:52:00",
-   "FIELD15": ""
+   "isha_jamah": "19:52:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-10-23",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-10-22",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:46:00",
@@ -5028,12 +4733,11 @@
    "maghrib_begins": "18:33:00",
    "maghrib_jamah": "18:40:00",
    "isha_begins": "19:51:00",
-   "isha_jamah": "19:51:00",
-   "FIELD15": ""
+   "isha_jamah": "19:51:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-10-24",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-10-23",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:47:00",
@@ -5045,12 +4749,11 @@
    "maghrib_begins": "18:31:00",
    "maghrib_jamah": "18:38:00",
    "isha_begins": "19:50:00",
-   "isha_jamah": "19:50:00",
-   "FIELD15": ""
+   "isha_jamah": "19:50:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-10-25",
+   "Day of Week": "Thursday",
+   "d_date": "2024-10-24",
    "fajr_begins": "6:31:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:48:00",
@@ -5062,12 +4765,11 @@
    "maghrib_begins": "18:30:00",
    "maghrib_jamah": "18:37:00",
    "isha_begins": "19:48:00",
-   "isha_jamah": "19:48:00",
-   "FIELD15": ""
+   "isha_jamah": "19:48:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-10-26",
+   "Day of Week": "Friday",
+   "d_date": "2024-10-25",
    "fajr_begins": "6:32:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:49:00",
@@ -5079,12 +4781,11 @@
    "maghrib_begins": "18:28:00",
    "maghrib_jamah": "18:35:00",
    "isha_begins": "19:47:00",
-   "isha_jamah": "19:47:00",
-   "FIELD15": ""
+   "isha_jamah": "19:47:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-10-27",
+   "Day of Week": "Saturday",
+   "d_date": "2024-10-26",
    "fajr_begins": "6:34:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:51:00",
@@ -5096,12 +4797,11 @@
    "maghrib_begins": "18:27:00",
    "maghrib_jamah": "18:34:00",
    "isha_begins": "19:45:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-10-28",
+   "Day of Week": "Sunday",
+   "d_date": "2024-10-27",
    "fajr_begins": "6:35:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:52:00",
@@ -5109,16 +4809,15 @@
    "zuhr_jamah": "13:45:00",
    "asr_mithl_1": "15:59:00",
    "asr_mithl_2": "15:59:00",
-   "asr_jamah": "16:30:00",
+   "asr_jamah": "16:15:00",
    "maghrib_begins": "18:25:00",
    "maghrib_jamah": "18:32:00",
    "isha_begins": "19:44:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-10-29",
+   "Day of Week": "Monday",
+   "d_date": "2024-10-28",
    "fajr_begins": "6:36:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -5130,12 +4829,11 @@
    "maghrib_begins": "18:24:00",
    "maghrib_jamah": "18:31:00",
    "isha_begins": "19:43:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-10-30",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-10-29",
    "fajr_begins": "6:37:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -5147,12 +4845,11 @@
    "maghrib_begins": "18:22:00",
    "maghrib_jamah": "18:29:00",
    "isha_begins": "19:41:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-10-31",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-10-30",
    "fajr_begins": "6:38:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:56:00",
@@ -5164,12 +4861,11 @@
    "maghrib_begins": "18:21:00",
    "maghrib_jamah": "18:28:00",
    "isha_begins": "19:40:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-11-01",
+   "Day of Week": "Thursday",
+   "d_date": "2024-10-31",
    "fajr_begins": "6:39:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:57:00",
@@ -5181,12 +4877,11 @@
    "maghrib_begins": "18:20:00",
    "maghrib_jamah": "18:27:00",
    "isha_begins": "19:39:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-11-02",
+   "Day of Week": "Friday",
+   "d_date": "2024-11-01",
    "fajr_begins": "6:40:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:58:00",
@@ -5198,12 +4893,11 @@
    "maghrib_begins": "18:18:00",
    "maghrib_jamah": "18:25:00",
    "isha_begins": "19:38:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-11-03",
+   "Day of Week": "Saturday",
+   "d_date": "2024-11-02",
    "fajr_begins": "6:42:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:59:00",
@@ -5215,29 +4909,27 @@
    "maghrib_begins": "18:17:00",
    "maghrib_jamah": "18:24:00",
    "isha_begins": "19:37:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
- },
- {
-   "Day of Week": "Saturday",
-   "d_date": "2023-11-04",
-   "fajr_begins": "6:43:00",
-   "fajr_jamah": "6:45:00",
-   "sunrise": "8:01:00",
-   "zuhr_begins": "13:10:00",
-   "zuhr_jamah": "13:45:00",
-   "asr_mithl_1": "15:52:00",
-   "asr_mithl_2": "15:52:00",
-   "asr_jamah": "16:15:00",
-   "maghrib_begins": "18:16:00",
-   "maghrib_jamah": "18:23:00",
-   "isha_begins": "19:36:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
    "Day of Week": "Sunday",
-   "d_date": "2023-11-05",
+   "d_date": "2024-11-03",
+   "fajr_begins": "5:43:00",
+   "fajr_jamah": "6:13:00",
+   "sunrise": "7:01:00",
+   "zuhr_begins": "12:10:00",
+   "zuhr_jamah": "12:45:00",
+   "asr_mithl_1": "14:52:00",
+   "asr_mithl_2": "14:52:00",
+   "asr_jamah": "15:15:00",
+   "maghrib_begins": "17:16:00",
+   "maghrib_jamah": "17:23:00",
+   "isha_begins": "18:36:00",
+   "isha_jamah": "19:45:00"
+ },
+ {
+   "Day of Week": "Monday",
+   "d_date": "2024-11-04",
    "fajr_begins": "5:44:00",
    "fajr_jamah": "6:14:00",
    "sunrise": "7:02:00",
@@ -5249,12 +4941,11 @@
    "maghrib_begins": "17:15:00",
    "maghrib_jamah": "17:22:00",
    "isha_begins": "18:34:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-11-06",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-11-05",
    "fajr_begins": "5:45:00",
    "fajr_jamah": "6:15:00",
    "sunrise": "7:03:00",
@@ -5266,12 +4957,11 @@
    "maghrib_begins": "17:13:00",
    "maghrib_jamah": "17:20:00",
    "isha_begins": "18:33:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-11-07",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-11-06",
    "fajr_begins": "5:46:00",
    "fajr_jamah": "6:16:00",
    "sunrise": "7:04:00",
@@ -5283,12 +4973,11 @@
    "maghrib_begins": "17:12:00",
    "maghrib_jamah": "17:19:00",
    "isha_begins": "18:32:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-11-08",
+   "Day of Week": "Thursday",
+   "d_date": "2024-11-07",
    "fajr_begins": "5:47:00",
    "fajr_jamah": "6:17:00",
    "sunrise": "7:06:00",
@@ -5300,12 +4989,11 @@
    "maghrib_begins": "17:11:00",
    "maghrib_jamah": "17:18:00",
    "isha_begins": "18:31:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-11-09",
+   "Day of Week": "Friday",
+   "d_date": "2024-11-08",
    "fajr_begins": "5:48:00",
    "fajr_jamah": "6:18:00",
    "sunrise": "7:07:00",
@@ -5317,12 +5005,11 @@
    "maghrib_begins": "17:10:00",
    "maghrib_jamah": "17:17:00",
    "isha_begins": "18:30:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-11-10",
+   "Day of Week": "Saturday",
+   "d_date": "2024-11-09",
    "fajr_begins": "5:49:00",
    "fajr_jamah": "6:19:00",
    "sunrise": "7:08:00",
@@ -5334,12 +5021,11 @@
    "maghrib_begins": "17:09:00",
    "maghrib_jamah": "17:16:00",
    "isha_begins": "18:29:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-11-11",
+   "Day of Week": "Sunday",
+   "d_date": "2024-11-10",
    "fajr_begins": "5:50:00",
    "fajr_jamah": "6:20:00",
    "sunrise": "7:10:00",
@@ -5347,16 +5033,15 @@
    "zuhr_jamah": "12:45:00",
    "asr_mithl_1": "14:45:00",
    "asr_mithl_2": "14:45:00",
-   "asr_jamah": "15:15:00",
+   "asr_jamah": "15:00:00",
    "maghrib_begins": "17:08:00",
    "maghrib_jamah": "17:15:00",
    "isha_begins": "18:28:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-11-12",
+   "Day of Week": "Monday",
+   "d_date": "2024-11-11",
    "fajr_begins": "5:52:00",
    "fajr_jamah": "6:22:00",
    "sunrise": "7:11:00",
@@ -5368,12 +5053,11 @@
    "maghrib_begins": "17:07:00",
    "maghrib_jamah": "17:14:00",
    "isha_begins": "18:27:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-11-13",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-11-12",
    "fajr_begins": "5:53:00",
    "fajr_jamah": "6:23:00",
    "sunrise": "7:12:00",
@@ -5385,12 +5069,11 @@
    "maghrib_begins": "17:06:00",
    "maghrib_jamah": "17:13:00",
    "isha_begins": "18:27:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-11-14",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-11-13",
    "fajr_begins": "5:54:00",
    "fajr_jamah": "6:24:00",
    "sunrise": "7:13:00",
@@ -5402,12 +5085,11 @@
    "maghrib_begins": "17:05:00",
    "maghrib_jamah": "17:12:00",
    "isha_begins": "18:26:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-11-15",
+   "Day of Week": "Thursday",
+   "d_date": "2024-11-14",
    "fajr_begins": "5:55:00",
    "fajr_jamah": "6:25:00",
    "sunrise": "7:15:00",
@@ -5419,12 +5101,11 @@
    "maghrib_begins": "17:04:00",
    "maghrib_jamah": "17:11:00",
    "isha_begins": "18:25:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-11-16",
+   "Day of Week": "Friday",
+   "d_date": "2024-11-15",
    "fajr_begins": "5:56:00",
    "fajr_jamah": "6:26:00",
    "sunrise": "7:16:00",
@@ -5436,12 +5117,11 @@
    "maghrib_begins": "17:03:00",
    "maghrib_jamah": "17:10:00",
    "isha_begins": "18:24:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-11-17",
+   "Day of Week": "Saturday",
+   "d_date": "2024-11-16",
    "fajr_begins": "5:57:00",
    "fajr_jamah": "6:27:00",
    "sunrise": "7:17:00",
@@ -5453,12 +5133,11 @@
    "maghrib_begins": "17:02:00",
    "maghrib_jamah": "17:09:00",
    "isha_begins": "18:23:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-11-18",
+   "Day of Week": "Sunday",
+   "d_date": "2024-11-17",
    "fajr_begins": "5:58:00",
    "fajr_jamah": "6:28:00",
    "sunrise": "7:18:00",
@@ -5470,12 +5149,11 @@
    "maghrib_begins": "17:01:00",
    "maghrib_jamah": "17:08:00",
    "isha_begins": "18:23:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-11-19",
+   "Day of Week": "Monday",
+   "d_date": "2024-11-18",
    "fajr_begins": "5:59:00",
    "fajr_jamah": "6:29:00",
    "sunrise": "7:20:00",
@@ -5487,12 +5165,11 @@
    "maghrib_begins": "17:00:00",
    "maghrib_jamah": "17:07:00",
    "isha_begins": "18:22:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-11-20",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-11-19",
    "fajr_begins": "6:00:00",
    "fajr_jamah": "6:30:00",
    "sunrise": "7:21:00",
@@ -5504,12 +5181,11 @@
    "maghrib_begins": "16:59:00",
    "maghrib_jamah": "17:06:00",
    "isha_begins": "18:21:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-11-21",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-11-20",
    "fajr_begins": "6:01:00",
    "fajr_jamah": "6:31:00",
    "sunrise": "7:22:00",
@@ -5521,12 +5197,11 @@
    "maghrib_begins": "16:58:00",
    "maghrib_jamah": "17:05:00",
    "isha_begins": "18:21:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-11-22",
+   "Day of Week": "Thursday",
+   "d_date": "2024-11-21",
    "fajr_begins": "6:02:00",
    "fajr_jamah": "6:32:00",
    "sunrise": "7:23:00",
@@ -5538,12 +5213,11 @@
    "maghrib_begins": "16:58:00",
    "maghrib_jamah": "17:05:00",
    "isha_begins": "18:20:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-11-23",
+   "Day of Week": "Friday",
+   "d_date": "2024-11-22",
    "fajr_begins": "6:03:00",
    "fajr_jamah": "6:33:00",
    "sunrise": "7:25:00",
@@ -5555,12 +5229,11 @@
    "maghrib_begins": "16:57:00",
    "maghrib_jamah": "17:04:00",
    "isha_begins": "18:20:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-11-24",
+   "Day of Week": "Saturday",
+   "d_date": "2024-11-23",
    "fajr_begins": "6:04:00",
    "fajr_jamah": "6:34:00",
    "sunrise": "7:26:00",
@@ -5572,12 +5245,11 @@
    "maghrib_begins": "16:56:00",
    "maghrib_jamah": "17:03:00",
    "isha_begins": "18:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-11-25",
+   "Day of Week": "Sunday",
+   "d_date": "2024-11-24",
    "fajr_begins": "6:05:00",
    "fajr_jamah": "6:35:00",
    "sunrise": "7:27:00",
@@ -5589,12 +5261,11 @@
    "maghrib_begins": "16:56:00",
    "maghrib_jamah": "17:03:00",
    "isha_begins": "18:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-11-26",
+   "Day of Week": "Monday",
+   "d_date": "2024-11-25",
    "fajr_begins": "6:06:00",
    "fajr_jamah": "6:36:00",
    "sunrise": "7:28:00",
@@ -5606,12 +5277,11 @@
    "maghrib_begins": "16:55:00",
    "maghrib_jamah": "17:02:00",
    "isha_begins": "18:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-11-27",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-11-26",
    "fajr_begins": "6:07:00",
    "fajr_jamah": "6:37:00",
    "sunrise": "7:29:00",
@@ -5623,12 +5293,11 @@
    "maghrib_begins": "16:55:00",
    "maghrib_jamah": "17:02:00",
    "isha_begins": "18:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-11-28",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-11-27",
    "fajr_begins": "6:08:00",
    "fajr_jamah": "6:38:00",
    "sunrise": "7:31:00",
@@ -5640,12 +5309,11 @@
    "maghrib_begins": "16:54:00",
    "maghrib_jamah": "17:01:00",
    "isha_begins": "18:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-11-29",
+   "Day of Week": "Thursday",
+   "d_date": "2024-11-28",
    "fajr_begins": "6:09:00",
    "fajr_jamah": "6:39:00",
    "sunrise": "7:32:00",
@@ -5657,12 +5325,11 @@
    "maghrib_begins": "16:54:00",
    "maghrib_jamah": "17:01:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-11-30",
+   "Day of Week": "Friday",
+   "d_date": "2024-11-29",
    "fajr_begins": "6:10:00",
    "fajr_jamah": "6:40:00",
    "sunrise": "7:33:00",
@@ -5674,12 +5341,11 @@
    "maghrib_begins": "16:53:00",
    "maghrib_jamah": "17:00:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-12-01",
+   "Day of Week": "Saturday",
+   "d_date": "2024-11-30",
    "fajr_begins": "6:11:00",
    "fajr_jamah": "6:41:00",
    "sunrise": "7:34:00",
@@ -5691,12 +5357,11 @@
    "maghrib_begins": "16:53:00",
    "maghrib_jamah": "17:00:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-12-02",
+   "Day of Week": "Sunday",
+   "d_date": "2024-12-01",
    "fajr_begins": "6:12:00",
    "fajr_jamah": "6:42:00",
    "sunrise": "7:35:00",
@@ -5708,12 +5373,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-12-03",
+   "Day of Week": "Monday",
+   "d_date": "2024-12-02",
    "fajr_begins": "6:13:00",
    "fajr_jamah": "6:43:00",
    "sunrise": "7:36:00",
@@ -5725,12 +5389,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-12-04",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-12-03",
    "fajr_begins": "6:14:00",
    "fajr_jamah": "6:44:00",
    "sunrise": "7:37:00",
@@ -5742,12 +5405,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-12-05",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-12-04",
    "fajr_begins": "6:15:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:38:00",
@@ -5759,12 +5421,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-12-06",
+   "Day of Week": "Thursday",
+   "d_date": "2024-12-05",
    "fajr_begins": "6:16:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:39:00",
@@ -5776,12 +5437,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-12-07",
+   "Day of Week": "Friday",
+   "d_date": "2024-12-06",
    "fajr_begins": "6:17:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:40:00",
@@ -5793,12 +5453,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-12-08",
+   "Day of Week": "Saturday",
+   "d_date": "2024-12-07",
    "fajr_begins": "6:18:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:41:00",
@@ -5810,12 +5469,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-12-09",
+   "Day of Week": "Sunday",
+   "d_date": "2024-12-08",
    "fajr_begins": "6:18:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:42:00",
@@ -5827,12 +5485,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-12-10",
+   "Day of Week": "Monday",
+   "d_date": "2024-12-09",
    "fajr_begins": "6:19:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:43:00",
@@ -5844,12 +5501,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-12-11",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-12-10",
    "fajr_begins": "6:20:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:44:00",
@@ -5861,12 +5517,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:16:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-12-12",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-12-11",
    "fajr_begins": "6:21:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:45:00",
@@ -5878,12 +5533,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-12-13",
+   "Day of Week": "Thursday",
+   "d_date": "2024-12-12",
    "fajr_begins": "6:22:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:46:00",
@@ -5895,12 +5549,11 @@
    "maghrib_begins": "16:51:00",
    "maghrib_jamah": "16:58:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-12-14",
+   "Day of Week": "Friday",
+   "d_date": "2024-12-13",
    "fajr_begins": "6:22:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:46:00",
@@ -5912,12 +5565,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-12-15",
+   "Day of Week": "Saturday",
+   "d_date": "2024-12-14",
    "fajr_begins": "6:23:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:47:00",
@@ -5929,12 +5581,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-12-16",
+   "Day of Week": "Sunday",
+   "d_date": "2024-12-15",
    "fajr_begins": "6:24:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:48:00",
@@ -5946,12 +5597,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:17:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-12-17",
+   "Day of Week": "Monday",
+   "d_date": "2024-12-16",
    "fajr_begins": "6:24:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:49:00",
@@ -5963,12 +5613,11 @@
    "maghrib_begins": "16:52:00",
    "maghrib_jamah": "16:59:00",
    "isha_begins": "18:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-12-18",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-12-17",
    "fajr_begins": "6:25:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:49:00",
@@ -5980,12 +5629,11 @@
    "maghrib_begins": "16:53:00",
    "maghrib_jamah": "17:00:00",
    "isha_begins": "18:18:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-12-19",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-12-18",
    "fajr_begins": "6:25:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:50:00",
@@ -5997,12 +5645,11 @@
    "maghrib_begins": "16:53:00",
    "maghrib_jamah": "17:00:00",
    "isha_begins": "18:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-12-20",
+   "Day of Week": "Thursday",
+   "d_date": "2024-12-19",
    "fajr_begins": "6:26:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:51:00",
@@ -6014,12 +5661,11 @@
    "maghrib_begins": "16:53:00",
    "maghrib_jamah": "17:00:00",
    "isha_begins": "18:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-12-21",
+   "Day of Week": "Friday",
+   "d_date": "2024-12-20",
    "fajr_begins": "6:27:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:51:00",
@@ -6031,12 +5677,11 @@
    "maghrib_begins": "16:54:00",
    "maghrib_jamah": "17:01:00",
    "isha_begins": "18:19:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-12-22",
+   "Day of Week": "Saturday",
+   "d_date": "2024-12-21",
    "fajr_begins": "6:27:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:52:00",
@@ -6048,12 +5693,11 @@
    "maghrib_begins": "16:54:00",
    "maghrib_jamah": "17:01:00",
    "isha_begins": "18:20:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-12-23",
+   "Day of Week": "Sunday",
+   "d_date": "2024-12-22",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:52:00",
@@ -6065,12 +5709,11 @@
    "maghrib_begins": "16:55:00",
    "maghrib_jamah": "17:02:00",
    "isha_begins": "18:20:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-12-24",
+   "Day of Week": "Monday",
+   "d_date": "2024-12-23",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -6082,12 +5725,11 @@
    "maghrib_begins": "16:55:00",
    "maghrib_jamah": "17:02:00",
    "isha_begins": "18:21:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Monday",
-   "d_date": "2023-12-25",
+   "Day of Week": "Tuesday",
+   "d_date": "2024-12-24",
    "fajr_begins": "6:28:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -6099,12 +5741,11 @@
    "maghrib_begins": "16:56:00",
    "maghrib_jamah": "17:03:00",
    "isha_begins": "18:22:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Tuesday",
-   "d_date": "2023-12-26",
+   "Day of Week": "Wednesday",
+   "d_date": "2024-12-25",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:53:00",
@@ -6116,12 +5757,11 @@
    "maghrib_begins": "16:56:00",
    "maghrib_jamah": "17:03:00",
    "isha_begins": "18:22:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Wednesday",
-   "d_date": "2023-12-27",
+   "Day of Week": "Thursday",
+   "d_date": "2024-12-26",
    "fajr_begins": "6:29:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -6133,12 +5773,11 @@
    "maghrib_begins": "16:57:00",
    "maghrib_jamah": "17:04:00",
    "isha_begins": "18:23:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Thursday",
-   "d_date": "2023-12-28",
+   "Day of Week": "Friday",
+   "d_date": "2024-12-27",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -6150,12 +5789,11 @@
    "maghrib_begins": "16:58:00",
    "maghrib_jamah": "17:05:00",
    "isha_begins": "18:23:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Friday",
-   "d_date": "2023-12-29",
+   "Day of Week": "Saturday",
+   "d_date": "2024-12-28",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:54:00",
@@ -6167,12 +5805,11 @@
    "maghrib_begins": "16:59:00",
    "maghrib_jamah": "17:06:00",
    "isha_begins": "18:24:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Saturday",
-   "d_date": "2023-12-30",
+   "Day of Week": "Sunday",
+   "d_date": "2024-12-29",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -6184,12 +5821,11 @@
    "maghrib_begins": "16:59:00",
    "maghrib_jamah": "17:06:00",
    "isha_begins": "18:25:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  },
  {
-   "Day of Week": "Sunday",
-   "d_date": "2023-12-31",
+   "Day of Week": "Monday",
+   "d_date": "2024-12-30",
    "fajr_begins": "6:30:00",
    "fajr_jamah": "6:45:00",
    "sunrise": "7:55:00",
@@ -6201,7 +5837,6 @@
    "maghrib_begins": "17:00:00",
    "maghrib_jamah": "17:07:00",
    "isha_begins": "18:26:00",
-   "isha_jamah": "19:45:00",
-   "FIELD15": ""
+   "isha_jamah": "19:45:00"
  }
 ]
